@@ -1,0 +1,59 @@
+TellMeAJokeIntent tell me a joke
+TellMeAJokeIntent tell a joke
+TellMeAJokeIntent say a joke
+TellMeAJokeIntent make a joke
+TellMeAJokeIntent give me a joke
+TellMeAJokeIntent tell me a knock knock joke
+TellMeAJokeIntent tell a knock knock joke
+TellMeAJokeIntent say a knock knock joke
+TellMeAJokeIntent make a knock knock joke
+TellMeAJokeIntent give me a knock knock joke
+TellMeAJokeIntent a joke
+TellMeAJokeIntent a knock knock joke
+TellMeAJokeIntent the joke
+TellMeAJokeIntent the knock knock joke
+TellMeAJokeIntent what's a joke
+TellMeAJokeIntent what is a joke
+TellMeAJokeIntent if it can tell me a joke
+TellMeAJokeIntent will it tell me a joke
+TellMeAJokeIntent can it tell me a joke
+TellMeAJokeIntent to tell me a joke
+TellMeAJokeIntent what's a knock knock joke
+TellMeAJokeIntent what is a knock knock joke
+TellMeAJokeIntent if it can tell me a knock knock joke
+TellMeAJokeIntent will it tell me a knock knock joke
+TellMeAJokeIntent can it tell me a knock knock joke
+TellMeAJokeIntent to tell me a knock knock joke
+
+WhosThereIntent who is there
+WhosThereIntent who's there
+WhosThereIntent who there
+WhosThereIntent who is this
+WhosThereIntent who's this
+
+SetupNameWhoIntent {to|SetupName} who
+SetupNameWhoIntent {beets|SetupName} who
+SetupNameWhoIntent {little Old Lady|SetupName} who
+SetupNameWhoIntent {a broken pencil|SetupName} who
+SetupNameWhoIntent {snow|SetupName} who
+SetupNameWhoIntent {boo|SetupName} who
+SetupNameWhoIntent {woo|SetupName} who
+SetupNameWhoIntent {spell|SetupName} who
+SetupNameWhoIntent {atch|SetupName} who
+SetupNameWhoIntent {owls|SetupName} who
+SetupNameWhoIntent {berry|SetupName} who
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

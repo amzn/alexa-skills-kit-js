@@ -1,0 +1,415 @@
+GetFirstEventIntent get events for {august seventeenth|day}
+GetFirstEventIntent get events for {december thirty first|day}
+GetFirstEventIntent get events for {next monday|day}
+GetFirstEventIntent get events for {today|day}
+GetFirstEventIntent give me events for {august seventeenth|day}
+GetFirstEventIntent give me events for {next monday|day}
+GetFirstEventIntent give me events for {today|day}
+GetFirstEventIntent what happened on {august seventeenth|day}
+GetFirstEventIntent what happened on {next monday|day}
+GetFirstEventIntent what happened on {today|day}
+GetFirstEventIntent what happened
+
+GetFirstEventIntent {january first|day}
+GetFirstEventIntent {january second|day}
+GetFirstEventIntent {january third|day}
+GetFirstEventIntent {january fourth|day}
+GetFirstEventIntent {january fifth|day}
+GetFirstEventIntent {january sixth|day}
+GetFirstEventIntent {january seventh|day}
+GetFirstEventIntent {january eighth|day}
+GetFirstEventIntent {january ninth|day}
+GetFirstEventIntent {january tenth|day}
+GetFirstEventIntent {january eleventh|day}
+GetFirstEventIntent {january twelfth|day}
+GetFirstEventIntent {january thirteenth|day}
+GetFirstEventIntent {january fourteenth|day}
+GetFirstEventIntent {january fifteenth|day}
+GetFirstEventIntent {january sixteenth|day}
+GetFirstEventIntent {january seventeenth|day}
+GetFirstEventIntent {january eighteenth|day}
+GetFirstEventIntent {january nineteenth|day}
+GetFirstEventIntent {january twentieth|day}
+GetFirstEventIntent {january twenty first|day}
+GetFirstEventIntent {january twenty second|day}
+GetFirstEventIntent {january twenty third|day}
+GetFirstEventIntent {january twenty fourth|day}
+GetFirstEventIntent {january twenty fifth|day}
+GetFirstEventIntent {january twenty sixth|day}
+GetFirstEventIntent {january twenty seventh|day}
+GetFirstEventIntent {january twenty eighth|day}
+GetFirstEventIntent {january twenty ninth|day}
+GetFirstEventIntent {january thirtieth|day}
+GetFirstEventIntent {january thirty first|day}
+GetFirstEventIntent {february first|day}
+GetFirstEventIntent {february second|day}
+GetFirstEventIntent {february third|day}
+GetFirstEventIntent {february fourth|day}
+GetFirstEventIntent {february fifth|day}
+GetFirstEventIntent {february sixth|day}
+GetFirstEventIntent {february seventh|day}
+GetFirstEventIntent {february eighth|day}
+GetFirstEventIntent {february ninth|day}
+GetFirstEventIntent {february tenth|day}
+GetFirstEventIntent {february eleventh|day}
+GetFirstEventIntent {february twelfth|day}
+GetFirstEventIntent {february thirteenth|day}
+GetFirstEventIntent {february fourteenth|day}
+GetFirstEventIntent {february fifteenth|day}
+GetFirstEventIntent {february sixteenth|day}
+GetFirstEventIntent {february seventeenth|day}
+GetFirstEventIntent {february eighteenth|day}
+GetFirstEventIntent {february nineteenth|day}
+GetFirstEventIntent {february twentieth|day}
+GetFirstEventIntent {february twenty first|day}
+GetFirstEventIntent {february twenty second|day}
+GetFirstEventIntent {february twenty third|day}
+GetFirstEventIntent {february twenty fourth|day}
+GetFirstEventIntent {february twenty fifth|day}
+GetFirstEventIntent {february twenty sixth|day}
+GetFirstEventIntent {february twenty seventh|day}
+GetFirstEventIntent {february twenty eighth|day}
+GetFirstEventIntent {february twenty ninth|day}
+GetFirstEventIntent {march first|day}
+GetFirstEventIntent {march second|day}
+GetFirstEventIntent {march third|day}
+GetFirstEventIntent {march fourth|day}
+GetFirstEventIntent {march fifth|day}
+GetFirstEventIntent {march sixth|day}
+GetFirstEventIntent {march seventh|day}
+GetFirstEventIntent {march eighth|day}
+GetFirstEventIntent {march ninth|day}
+GetFirstEventIntent {march tenth|day}
+GetFirstEventIntent {march eleventh|day}
+GetFirstEventIntent {march twelfth|day}
+GetFirstEventIntent {march thirteenth|day}
+GetFirstEventIntent {march fourteenth|day}
+GetFirstEventIntent {march fifteenth|day}
+GetFirstEventIntent {march sixteenth|day}
+GetFirstEventIntent {march seventeenth|day}
+GetFirstEventIntent {march eighteenth|day}
+GetFirstEventIntent {march nineteenth|day}
+GetFirstEventIntent {march twentieth|day}
+GetFirstEventIntent {march twenty first|day}
+GetFirstEventIntent {march twenty second|day}
+GetFirstEventIntent {march twenty third|day}
+GetFirstEventIntent {march twenty fourth|day}
+GetFirstEventIntent {march twenty fifth|day}
+GetFirstEventIntent {march twenty sixth|day}
+GetFirstEventIntent {march twenty seventh|day}
+GetFirstEventIntent {march twenty eighth|day}
+GetFirstEventIntent {march twenty ninth|day}
+GetFirstEventIntent {march thirtieth|day}
+GetFirstEventIntent {march thirty first|day}
+GetFirstEventIntent {april first|day}
+GetFirstEventIntent {april second|day}
+GetFirstEventIntent {april third|day}
+GetFirstEventIntent {april fourth|day}
+GetFirstEventIntent {april fifth|day}
+GetFirstEventIntent {april sixth|day}
+GetFirstEventIntent {april seventh|day}
+GetFirstEventIntent {april eighth|day}
+GetFirstEventIntent {april ninth|day}
+GetFirstEventIntent {april tenth|day}
+GetFirstEventIntent {april eleventh|day}
+GetFirstEventIntent {april twelfth|day}
+GetFirstEventIntent {april thirteenth|day}
+GetFirstEventIntent {april fourteenth|day}
+GetFirstEventIntent {april fifteenth|day}
+GetFirstEventIntent {april sixteenth|day}
+GetFirstEventIntent {april seventeenth|day}
+GetFirstEventIntent {april eighteenth|day}
+GetFirstEventIntent {april nineteenth|day}
+GetFirstEventIntent {april twentieth|day}
+GetFirstEventIntent {april twenty first|day}
+GetFirstEventIntent {april twenty second|day}
+GetFirstEventIntent {april twenty third|day}
+GetFirstEventIntent {april twenty fourth|day}
+GetFirstEventIntent {april twenty fifth|day}
+GetFirstEventIntent {april twenty sixth|day}
+GetFirstEventIntent {april twenty seventh|day}
+GetFirstEventIntent {april twenty eighth|day}
+GetFirstEventIntent {april twenty ninth|day}
+GetFirstEventIntent {april thirtieth|day}
+GetFirstEventIntent {may first|day}
+GetFirstEventIntent {may second|day}
+GetFirstEventIntent {may third|day}
+GetFirstEventIntent {may fourth|day}
+GetFirstEventIntent {may fifth|day}
+GetFirstEventIntent {may sixth|day}
+GetFirstEventIntent {may seventh|day}
+GetFirstEventIntent {may eighth|day}
+GetFirstEventIntent {may ninth|day}
+GetFirstEventIntent {may tenth|day}
+GetFirstEventIntent {may eleventh|day}
+GetFirstEventIntent {may twelfth|day}
+GetFirstEventIntent {may thirteenth|day}
+GetFirstEventIntent {may fourteenth|day}
+GetFirstEventIntent {may fifteenth|day}
+GetFirstEventIntent {may sixteenth|day}
+GetFirstEventIntent {may seventeenth|day}
+GetFirstEventIntent {may eighteenth|day}
+GetFirstEventIntent {may nineteenth|day}
+GetFirstEventIntent {may twentieth|day}
+GetFirstEventIntent {may twenty first|day}
+GetFirstEventIntent {may twenty second|day}
+GetFirstEventIntent {may twenty third|day}
+GetFirstEventIntent {may twenty fourth|day}
+GetFirstEventIntent {may twenty fifth|day}
+GetFirstEventIntent {may twenty sixth|day}
+GetFirstEventIntent {may twenty seventh|day}
+GetFirstEventIntent {may twenty eighth|day}
+GetFirstEventIntent {may twenty ninth|day}
+GetFirstEventIntent {may thirtieth|day}
+GetFirstEventIntent {may thirty first|day}
+GetFirstEventIntent {june first|day}
+GetFirstEventIntent {june second|day}
+GetFirstEventIntent {june third|day}
+GetFirstEventIntent {june fourth|day}
+GetFirstEventIntent {june fifth|day}
+GetFirstEventIntent {june sixth|day}
+GetFirstEventIntent {june seventh|day}
+GetFirstEventIntent {june eighth|day}
+GetFirstEventIntent {june ninth|day}
+GetFirstEventIntent {june tenth|day}
+GetFirstEventIntent {june eleventh|day}
+GetFirstEventIntent {june twelfth|day}
+GetFirstEventIntent {june thirteenth|day}
+GetFirstEventIntent {june fourteenth|day}
+GetFirstEventIntent {june fifteenth|day}
+GetFirstEventIntent {june sixteenth|day}
+GetFirstEventIntent {june seventeenth|day}
+GetFirstEventIntent {june eighteenth|day}
+GetFirstEventIntent {june nineteenth|day}
+GetFirstEventIntent {june twentieth|day}
+GetFirstEventIntent {june twenty first|day}
+GetFirstEventIntent {june twenty second|day}
+GetFirstEventIntent {june twenty third|day}
+GetFirstEventIntent {june twenty fourth|day}
+GetFirstEventIntent {june twenty fifth|day}
+GetFirstEventIntent {june twenty sixth|day}
+GetFirstEventIntent {june twenty seventh|day}
+GetFirstEventIntent {june twenty eighth|day}
+GetFirstEventIntent {june twenty ninth|day}
+GetFirstEventIntent {june thirtieth|day}
+GetFirstEventIntent {july first|day}
+GetFirstEventIntent {july second|day}
+GetFirstEventIntent {july third|day}
+GetFirstEventIntent {july fourth|day}
+GetFirstEventIntent {july fifth|day}
+GetFirstEventIntent {july sixth|day}
+GetFirstEventIntent {july seventh|day}
+GetFirstEventIntent {july eighth|day}
+GetFirstEventIntent {july ninth|day}
+GetFirstEventIntent {july tenth|day}
+GetFirstEventIntent {july eleventh|day}
+GetFirstEventIntent {july twelfth|day}
+GetFirstEventIntent {july thirteenth|day}
+GetFirstEventIntent {july fourteenth|day}
+GetFirstEventIntent {july fifteenth|day}
+GetFirstEventIntent {july sixteenth|day}
+GetFirstEventIntent {july seventeenth|day}
+GetFirstEventIntent {july eighteenth|day}
+GetFirstEventIntent {july nineteenth|day}
+GetFirstEventIntent {july twentieth|day}
+GetFirstEventIntent {july twenty first|day}
+GetFirstEventIntent {july twenty second|day}
+GetFirstEventIntent {july twenty third|day}
+GetFirstEventIntent {july twenty fourth|day}
+GetFirstEventIntent {july twenty fifth|day}
+GetFirstEventIntent {july twenty sixth|day}
+GetFirstEventIntent {july twenty seventh|day}
+GetFirstEventIntent {july twenty eighth|day}
+GetFirstEventIntent {july twenty ninth|day}
+GetFirstEventIntent {july thirtieth|day}
+GetFirstEventIntent {july thirty first|day}
+GetFirstEventIntent {august first|day}
+GetFirstEventIntent {august second|day}
+GetFirstEventIntent {august third|day}
+GetFirstEventIntent {august fourth|day}
+GetFirstEventIntent {august fifth|day}
+GetFirstEventIntent {august sixth|day}
+GetFirstEventIntent {august seventh|day}
+GetFirstEventIntent {august eighth|day}
+GetFirstEventIntent {august ninth|day}
+GetFirstEventIntent {august tenth|day}
+GetFirstEventIntent {august eleventh|day}
+GetFirstEventIntent {august twelfth|day}
+GetFirstEventIntent {august thirteenth|day}
+GetFirstEventIntent {august fourteenth|day}
+GetFirstEventIntent {august fifteenth|day}
+GetFirstEventIntent {august sixteenth|day}
+GetFirstEventIntent {august seventeenth|day}
+GetFirstEventIntent {august eighteenth|day}
+GetFirstEventIntent {august nineteenth|day}
+GetFirstEventIntent {august twentieth|day}
+GetFirstEventIntent {august twenty first|day}
+GetFirstEventIntent {august twenty second|day}
+GetFirstEventIntent {august twenty third|day}
+GetFirstEventIntent {august twenty fourth|day}
+GetFirstEventIntent {august twenty fifth|day}
+GetFirstEventIntent {august twenty sixth|day}
+GetFirstEventIntent {august twenty seventh|day}
+GetFirstEventIntent {august twenty eighth|day}
+GetFirstEventIntent {august twenty ninth|day}
+GetFirstEventIntent {august thirtieth|day}
+GetFirstEventIntent {august thirty first|day}
+GetFirstEventIntent {september first|day}
+GetFirstEventIntent {september second|day}
+GetFirstEventIntent {september third|day}
+GetFirstEventIntent {september fourth|day}
+GetFirstEventIntent {september fifth|day}
+GetFirstEventIntent {september sixth|day}
+GetFirstEventIntent {september seventh|day}
+GetFirstEventIntent {september eighth|day}
+GetFirstEventIntent {september ninth|day}
+GetFirstEventIntent {september tenth|day}
+GetFirstEventIntent {september eleventh|day}
+GetFirstEventIntent {september twelfth|day}
+GetFirstEventIntent {september thirteenth|day}
+GetFirstEventIntent {september fourteenth|day}
+GetFirstEventIntent {september fifteenth|day}
+GetFirstEventIntent {september sixteenth|day}
+GetFirstEventIntent {september seventeenth|day}
+GetFirstEventIntent {september eighteenth|day}
+GetFirstEventIntent {september nineteenth|day}
+GetFirstEventIntent {september twentieth|day}
+GetFirstEventIntent {september twenty first|day}
+GetFirstEventIntent {september twenty second|day}
+GetFirstEventIntent {september twenty third|day}
+GetFirstEventIntent {september twenty fourth|day}
+GetFirstEventIntent {september twenty fifth|day}
+GetFirstEventIntent {september twenty sixth|day}
+GetFirstEventIntent {september twenty seventh|day}
+GetFirstEventIntent {september twenty eighth|day}
+GetFirstEventIntent {september twenty ninth|day}
+GetFirstEventIntent {september thirtieth|day}
+GetFirstEventIntent {october first|day}
+GetFirstEventIntent {october second|day}
+GetFirstEventIntent {october third|day}
+GetFirstEventIntent {october fourth|day}
+GetFirstEventIntent {october fifth|day}
+GetFirstEventIntent {october sixth|day}
+GetFirstEventIntent {october seventh|day}
+GetFirstEventIntent {october eighth|day}
+GetFirstEventIntent {october ninth|day}
+GetFirstEventIntent {october tenth|day}
+GetFirstEventIntent {october eleventh|day}
+GetFirstEventIntent {october twelfth|day}
+GetFirstEventIntent {october thirteenth|day}
+GetFirstEventIntent {october fourteenth|day}
+GetFirstEventIntent {october fifteenth|day}
+GetFirstEventIntent {october sixteenth|day}
+GetFirstEventIntent {october seventeenth|day}
+GetFirstEventIntent {october eighteenth|day}
+GetFirstEventIntent {october nineteenth|day}
+GetFirstEventIntent {october twentieth|day}
+GetFirstEventIntent {october twenty first|day}
+GetFirstEventIntent {october twenty second|day}
+GetFirstEventIntent {october twenty third|day}
+GetFirstEventIntent {october twenty fourth|day}
+GetFirstEventIntent {october twenty fifth|day}
+GetFirstEventIntent {october twenty sixth|day}
+GetFirstEventIntent {october twenty seventh|day}
+GetFirstEventIntent {october twenty eighth|day}
+GetFirstEventIntent {october twenty ninth|day}
+GetFirstEventIntent {october thirtieth|day}
+GetFirstEventIntent {october thirty first|day}
+GetFirstEventIntent {november first|day}
+GetFirstEventIntent {november second|day}
+GetFirstEventIntent {november third|day}
+GetFirstEventIntent {november fourth|day}
+GetFirstEventIntent {november fifth|day}
+GetFirstEventIntent {november sixth|day}
+GetFirstEventIntent {november seventh|day}
+GetFirstEventIntent {november eighth|day}
+GetFirstEventIntent {november ninth|day}
+GetFirstEventIntent {november tenth|day}
+GetFirstEventIntent {november eleventh|day}
+GetFirstEventIntent {november twelfth|day}
+GetFirstEventIntent {november thirteenth|day}
+GetFirstEventIntent {november fourteenth|day}
+GetFirstEventIntent {november fifteenth|day}
+GetFirstEventIntent {november sixteenth|day}
+GetFirstEventIntent {november seventeenth|day}
+GetFirstEventIntent {november eighteenth|day}
+GetFirstEventIntent {november nineteenth|day}
+GetFirstEventIntent {november twentieth|day}
+GetFirstEventIntent {november twenty first|day}
+GetFirstEventIntent {november twenty second|day}
+GetFirstEventIntent {november twenty third|day}
+GetFirstEventIntent {november twenty fourth|day}
+GetFirstEventIntent {november twenty fifth|day}
+GetFirstEventIntent {november twenty sixth|day}
+GetFirstEventIntent {november twenty seventh|day}
+GetFirstEventIntent {november twenty eighth|day}
+GetFirstEventIntent {november twenty ninth|day}
+GetFirstEventIntent {november thirtieth|day}
+GetFirstEventIntent {december first|day}
+GetFirstEventIntent {december second|day}
+GetFirstEventIntent {december third|day}
+GetFirstEventIntent {december fourth|day}
+GetFirstEventIntent {december fifth|day}
+GetFirstEventIntent {december sixth|day}
+GetFirstEventIntent {december seventh|day}
+GetFirstEventIntent {december eighth|day}
+GetFirstEventIntent {december ninth|day}
+GetFirstEventIntent {december tenth|day}
+GetFirstEventIntent {december eleventh|day}
+GetFirstEventIntent {december twelfth|day}
+GetFirstEventIntent {december thirteenth|day}
+GetFirstEventIntent {december fourteenth|day}
+GetFirstEventIntent {december fifteenth|day}
+GetFirstEventIntent {december sixteenth|day}
+GetFirstEventIntent {december seventeenth|day}
+GetFirstEventIntent {december eighteenth|day}
+GetFirstEventIntent {december nineteenth|day}
+GetFirstEventIntent {december twentieth|day}
+GetFirstEventIntent {december twenty first|day}
+GetFirstEventIntent {december twenty second|day}
+GetFirstEventIntent {december twenty third|day}
+GetFirstEventIntent {december twenty fourth|day}
+GetFirstEventIntent {december twenty fifth|day}
+GetFirstEventIntent {december twenty sixth|day}
+GetFirstEventIntent {december twenty seventh|day}
+GetFirstEventIntent {december twenty eighth|day}
+GetFirstEventIntent {december twenty ninth|day}
+GetFirstEventIntent {december thirtieth|day}
+GetFirstEventIntent {december thirty first|day}
+GetFirstEventIntent {next Monday|day}
+GetFirstEventIntent {next Tuesday|day}
+GetFirstEventIntent {next Wednesday|day}
+GetFirstEventIntent {next Thursday|day}
+GetFirstEventIntent {next Friday|day}
+GetFirstEventIntent {next Saturday|day}
+GetFirstEventIntent {next Sunday|day}
+GetFirstEventIntent {today|day}
+GetFirstEventIntent {tomorrow|day}
+GetFirstEventIntent {yesterday|day}
+
+FinishIntent no
+FinishIntent nope
+FinishIntent no thanks
+FinishIntent no thank you
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
+
+GetNextEventIntent yes
+GetNextEventIntent yup
+GetNextEventIntent sure
+GetNextEventIntent yes please

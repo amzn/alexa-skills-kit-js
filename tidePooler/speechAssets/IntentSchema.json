@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "OneshotTideIntent",
+      "slots": [
+        {
+          "name": "City",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Date",
+          "type": "DATE"
+        }
+      ]
+    },
+    {
+      "intent": "DialogTideIntent",
+      "slots": [
+        {
+          "name": "City",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Date",
+          "type": "DATE"
+        }
+      ]
+    },
+    {
+      "intent": "SupportedCitiesIntent",
+      "slots": [ ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": [ ]
+    }
+  ]
+}

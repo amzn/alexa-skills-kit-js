@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "TopSellers",
+      "slots": [
+        {
+          "name": "Category",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HearMore",
+      "slots": [ ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": [ ]
+    },
+    {
+      "intent": "DontHearMore",
+      "slots": [ ]
+    }
+  ]
+}

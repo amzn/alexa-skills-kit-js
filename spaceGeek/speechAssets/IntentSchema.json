@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewFactIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+ }

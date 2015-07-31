@@ -1,0 +1,388 @@
+TopSellers get top sellers for {apparel|Category}
+TopSellers get top sellers for {appliances|Category}
+TopSellers get top sellers for {arts And Crafts|Category}
+TopSellers get top sellers for {arts|Category}
+TopSellers get top sellers for {crafts|Category}
+TopSellers get top sellers for {automotive|Category}
+TopSellers get top sellers for {baby|Category}
+TopSellers get top sellers for {beauty|Category}
+TopSellers get top sellers for {books|Category}
+TopSellers get top sellers for {classical|Category}
+TopSellers get top sellers for {collectibles|Category}
+TopSellers get top sellers for {d. v. d.|Category}
+TopSellers get top sellers for {d. v. d.s|Category}
+TopSellers get top sellers for {digital Music|Category}
+TopSellers get top sellers for {electronics|Category}
+TopSellers get top sellers for {gift Cards|Category}
+TopSellers get top sellers for {gourmet Food|Category}
+TopSellers get top sellers for {food|Category}
+TopSellers get top sellers for {grocery|Category}
+TopSellers get top sellers for {health|Category}
+TopSellers get top sellers for {personal Care|Category}
+TopSellers get top sellers for {home|Category}
+TopSellers get top sellers for {garden|Category}
+TopSellers get top sellers for {industrial|Category}
+TopSellers get top sellers for {jewelry|Category}
+TopSellers get top sellers for {kindle|Category}
+TopSellers get top sellers for {kitchen|Category}
+TopSellers get top sellers for {lawn And Garden|Category}
+TopSellers get top sellers for {lawn|Category}
+TopSellers get top sellers for {m. p. three|Category}
+TopSellers get top sellers for {m. p. threes|Category}
+TopSellers get top sellers for {magazines|Category}
+TopSellers get top sellers for {miscellaneous|Category}
+TopSellers get top sellers for {mobile Apps|Category}
+TopSellers get top sellers for {movie|Category}
+TopSellers get top sellers for {movies|Category}
+TopSellers get top sellers for {apps|Category}
+TopSellers get top sellers for {music|Category}
+TopSellers get top sellers for {musical Instruments|Category}
+TopSellers get top sellers for {office Products|Category}
+TopSellers get top sellers for {office|Category}
+TopSellers get top sellers for {outdoor Living|Category}
+TopSellers get top sellers for {outdoor|Category}
+TopSellers get top sellers for {p. c. Hardware|Category}
+TopSellers get top sellers for {p. c.|Category}
+TopSellers get top sellers for {p. c.s|Category}
+TopSellers get top sellers for {pet Supplies|Category}
+TopSellers get top sellers for {pet|Category}
+TopSellers get top sellers for {photo|Category}
+TopSellers get top sellers for {shoes|Category}
+TopSellers get top sellers for {software|Category}
+TopSellers get top sellers for {sporting Goods|Category}
+TopSellers get top sellers for {tools|Category}
+TopSellers get top sellers for {toys|Category}
+TopSellers get top sellers for {v. h. s.|Category}
+TopSellers get top sellers for {video|Category}
+TopSellers get top sellers for {video Games|Category}
+TopSellers get top sellers for {watches|Category}
+TopSellers get top sellers for {wireless|Category}
+TopSellers get top sellers for {wireless Accessories|Category}
+TopSellers get best sellers for {apparel|Category}
+TopSellers get best sellers for {appliances|Category}
+TopSellers get best sellers for {arts And Crafts|Category}
+TopSellers get best sellers for {arts|Category}
+TopSellers get best sellers for {crafts|Category}
+TopSellers get best sellers for {automotive|Category}
+TopSellers get best sellers for {baby|Category}
+TopSellers get best sellers for {beauty|Category}
+TopSellers get best sellers for {books|Category}
+TopSellers get best sellers for {classical|Category}
+TopSellers get best sellers for {collectibles|Category}
+TopSellers get best sellers for {d. v. d.|Category}
+TopSellers get best sellers for {d. v. d.s|Category}
+TopSellers get best sellers for {digital Music|Category}
+TopSellers get best sellers for {electronics|Category}
+TopSellers get best sellers for {gift Cards|Category}
+TopSellers get best sellers for {gourmet Food|Category}
+TopSellers get best sellers for {food|Category}
+TopSellers get best sellers for {grocery|Category}
+TopSellers get best sellers for {health|Category}
+TopSellers get best sellers for {personal Care|Category}
+TopSellers get best sellers for {home|Category}
+TopSellers get best sellers for {garden|Category}
+TopSellers get best sellers for {industrial|Category}
+TopSellers get best sellers for {jewelry|Category}
+TopSellers get best sellers for {kindle|Category}
+TopSellers get best sellers for {kitchen|Category}
+TopSellers get best sellers for {lawn And Garden|Category}
+TopSellers get best sellers for {lawn|Category}
+TopSellers get best sellers for {m. p. three|Category}
+TopSellers get best sellers for {m. p. threes|Category}
+TopSellers get best sellers for {magazines|Category}
+TopSellers get best sellers for {miscellaneous|Category}
+TopSellers get best sellers for {mobile Apps|Category}
+TopSellers get best sellers for {movie|Category}
+TopSellers get best sellers for {movies|Category}
+TopSellers get best sellers for {apps|Category}
+TopSellers get best sellers for {music|Category}
+TopSellers get best sellers for {musical Instruments|Category}
+TopSellers get best sellers for {office Products|Category}
+TopSellers get best sellers for {office|Category}
+TopSellers get best sellers for {outdoor Living|Category}
+TopSellers get best sellers for {outdoor|Category}
+TopSellers get best sellers for {p. c. Hardware|Category}
+TopSellers get best sellers for {p. c.|Category}
+TopSellers get best sellers for {p. c.s|Category}
+TopSellers get best sellers for {pet Supplies|Category}
+TopSellers get best sellers for {pet|Category}
+TopSellers get best sellers for {photo|Category}
+TopSellers get best sellers for {shoes|Category}
+TopSellers get best sellers for {software|Category}
+TopSellers get best sellers for {sporting Goods|Category}
+TopSellers get best sellers for {tools|Category}
+TopSellers get best sellers for {toys|Category}
+TopSellers get best sellers for {v. h. s.|Category}
+TopSellers get best sellers for {video|Category}
+TopSellers get best sellers for {video Games|Category}
+TopSellers get best sellers for {watches|Category}
+TopSellers get best sellers for {wireless|Category}
+TopSellers get best sellers for {wireless Accessories|Category}
+TopSellers get me {apparel|Category}
+TopSellers get me {appliances|Category}
+TopSellers get me {arts And Crafts|Category}
+TopSellers get me {arts|Category}
+TopSellers get me {crafts|Category}
+TopSellers get me {automotive|Category}
+TopSellers get me {baby|Category}
+TopSellers get me {beauty|Category}
+TopSellers get me {books|Category}
+TopSellers get me {classical|Category}
+TopSellers get me {collectibles|Category}
+TopSellers get me {d. v. d.|Category}
+TopSellers get me {d. v. d.s|Category}
+TopSellers get me {digital Music|Category}
+TopSellers get me {electronics|Category}
+TopSellers get me {gift Cards|Category}
+TopSellers get me {gourmet Food|Category}
+TopSellers get me {food|Category}
+TopSellers get me {grocery|Category}
+TopSellers get me {health|Category}
+TopSellers get me {personal Care|Category}
+TopSellers get me {home|Category}
+TopSellers get me {garden|Category}
+TopSellers get me {industrial|Category}
+TopSellers get me {jewelry|Category}
+TopSellers get me {kindle|Category}
+TopSellers get me {kitchen|Category}
+TopSellers get me {lawn And Garden|Category}
+TopSellers get me {lawn|Category}
+TopSellers get me {m. p. three|Category}
+TopSellers get me {m. p. threes|Category}
+TopSellers get me {magazines|Category}
+TopSellers get me {miscellaneous|Category}
+TopSellers get me {mobile Apps|Category}
+TopSellers get me {movie|Category}
+TopSellers get me {movies|Category}
+TopSellers get me {apps|Category}
+TopSellers get me {music|Category}
+TopSellers get me {musical Instruments|Category}
+TopSellers get me {office Products|Category}
+TopSellers get me {office|Category}
+TopSellers get me {outdoor Living|Category}
+TopSellers get me {outdoor|Category}
+TopSellers get me {p. c. Hardware|Category}
+TopSellers get me {p. c.|Category}
+TopSellers get me {p. c.s|Category}
+TopSellers get me {pet Supplies|Category}
+TopSellers get me {pet|Category}
+TopSellers get me {photo|Category}
+TopSellers get me {shoes|Category}
+TopSellers get me {software|Category}
+TopSellers get me {sporting Goods|Category}
+TopSellers get me {tools|Category}
+TopSellers get me {toys|Category}
+TopSellers get me {v. h. s.|Category}
+TopSellers get me {video|Category}
+TopSellers get me {video Games|Category}
+TopSellers get me {watches|Category}
+TopSellers get me {wireless|Category}
+TopSellers get me {wireless Accessories|Category}
+TopSellers top {apparel|Category}
+TopSellers top {appliances|Category}
+TopSellers top {arts And Crafts|Category}
+TopSellers top {arts|Category}
+TopSellers top {crafts|Category}
+TopSellers top {automotive|Category}
+TopSellers top {baby|Category}
+TopSellers top {beauty|Category}
+TopSellers top {books|Category}
+TopSellers top {classical|Category}
+TopSellers top {collectibles|Category}
+TopSellers top {d. v. d.|Category}
+TopSellers top {d. v. d.s|Category}
+TopSellers top {digital Music|Category}
+TopSellers top {electronics|Category}
+TopSellers top {gift Cards|Category}
+TopSellers top {gourmet Food|Category}
+TopSellers top {food|Category}
+TopSellers top {grocery|Category}
+TopSellers top {health|Category}
+TopSellers top {personal Care|Category}
+TopSellers top {home|Category}
+TopSellers top {garden|Category}
+TopSellers top {industrial|Category}
+TopSellers top {jewelry|Category}
+TopSellers top {kindle|Category}
+TopSellers top {kitchen|Category}
+TopSellers top {lawn And Garden|Category}
+TopSellers top {lawn|Category}
+TopSellers top {m. p. three|Category}
+TopSellers top {m. p. threes|Category}
+TopSellers top {magazines|Category}
+TopSellers top {miscellaneous|Category}
+TopSellers top {mobile Apps|Category}
+TopSellers top {movie|Category}
+TopSellers top {movies|Category}
+TopSellers top {apps|Category}
+TopSellers top {music|Category}
+TopSellers top {musical Instruments|Category}
+TopSellers top {office Products|Category}
+TopSellers top {office|Category}
+TopSellers top {outdoor Living|Category}
+TopSellers top {outdoor|Category}
+TopSellers top {p. c. Hardware|Category}
+TopSellers top {p. c.|Category}
+TopSellers top {p. c.s|Category}
+TopSellers top {pet Supplies|Category}
+TopSellers top {pet|Category}
+TopSellers top {photo|Category}
+TopSellers top {shoes|Category}
+TopSellers top {software|Category}
+TopSellers top {sporting Goods|Category}
+TopSellers top {tools|Category}
+TopSellers top {toys|Category}
+TopSellers top {v. h. s.|Category}
+TopSellers top {video|Category}
+TopSellers top {video Games|Category}
+TopSellers top {watches|Category}
+TopSellers top {wireless|Category}
+TopSellers top {wireless Accessories|Category}
+TopSellers top products in {apparel|Category}
+TopSellers top products in {appliances|Category}
+TopSellers top products in {arts And Crafts|Category}
+TopSellers top products in {arts|Category}
+TopSellers top products in {crafts|Category}
+TopSellers top products in {automotive|Category}
+TopSellers top products in {baby|Category}
+TopSellers top products in {beauty|Category}
+TopSellers top products in {books|Category}
+TopSellers top products in {classical|Category}
+TopSellers top products in {collectibles|Category}
+TopSellers top products in {d. v. d.|Category}
+TopSellers top products in {d. v. d.s|Category}
+TopSellers top products in {digital Music|Category}
+TopSellers top products in {electronics|Category}
+TopSellers top products in {gift Cards|Category}
+TopSellers top products in {gourmet Food|Category}
+TopSellers top products in {food|Category}
+TopSellers top products in {grocery|Category}
+TopSellers top products in {health|Category}
+TopSellers top products in {personal Care|Category}
+TopSellers top products in {home|Category}
+TopSellers top products in {garden|Category}
+TopSellers top products in {industrial|Category}
+TopSellers top products in {jewelry|Category}
+TopSellers top products in {kindle|Category}
+TopSellers top products in {kitchen|Category}
+TopSellers top products in {lawn And Garden|Category}
+TopSellers top products in {lawn|Category}
+TopSellers top products in {m. p. three|Category}
+TopSellers top products in {m. p. threes|Category}
+TopSellers top products in {magazines|Category}
+TopSellers top products in {miscellaneous|Category}
+TopSellers top products in {mobile Apps|Category}
+TopSellers top products in {movie|Category}
+TopSellers top products in {movies|Category}
+TopSellers top products in {apps|Category}
+TopSellers top products in {music|Category}
+TopSellers top products in {musical Instruments|Category}
+TopSellers top products in {office Products|Category}
+TopSellers top products in {office|Category}
+TopSellers top products in {outdoor Living|Category}
+TopSellers top products in {outdoor|Category}
+TopSellers top products in {p. c. Hardware|Category}
+TopSellers top products in {p. c.|Category}
+TopSellers top products in {p. c.s|Category}
+TopSellers top products in {pet Supplies|Category}
+TopSellers top products in {pet|Category}
+TopSellers top products in {photo|Category}
+TopSellers top products in {shoes|Category}
+TopSellers top products in {software|Category}
+TopSellers top products in {sporting Goods|Category}
+TopSellers top products in {tools|Category}
+TopSellers top products in {toys|Category}
+TopSellers top products in {v. h. s.|Category}
+TopSellers top products in {video|Category}
+TopSellers top products in {video Games|Category}
+TopSellers top products in {watches|Category}
+TopSellers top products in {wireless|Category}
+TopSellers top products in {wireless Accessories|Category}
+TopSellers {apparel|Category}
+TopSellers {appliances|Category}
+TopSellers {arts And Crafts|Category}
+TopSellers {arts|Category}
+TopSellers {crafts|Category}
+TopSellers {automotive|Category}
+TopSellers {baby|Category}
+TopSellers {beauty|Category}
+TopSellers {books|Category}
+TopSellers {classical|Category}
+TopSellers {collectibles|Category}
+TopSellers {d. v. d.|Category}
+TopSellers {d. v. d.s|Category}
+TopSellers {digital Music|Category}
+TopSellers {electronics|Category}
+TopSellers {gift Cards|Category}
+TopSellers {gourmet Food|Category}
+TopSellers {food|Category}
+TopSellers {grocery|Category}
+TopSellers {health|Category}
+TopSellers {personal Care|Category}
+TopSellers {home|Category}
+TopSellers {garden|Category}
+TopSellers {industrial|Category}
+TopSellers {jewelry|Category}
+TopSellers {kindle|Category}
+TopSellers {kitchen|Category}
+TopSellers {lawn And Garden|Category}
+TopSellers {lawn|Category}
+TopSellers {m. p. three|Category}
+TopSellers {m. p. threes|Category}
+TopSellers {magazines|Category}
+TopSellers {miscellaneous|Category}
+TopSellers {mobile Apps|Category}
+TopSellers {apps|Category}
+TopSellers {movie|Category}
+TopSellers {movies|Category}
+TopSellers {music|Category}
+TopSellers {musical Instruments|Category}
+TopSellers {office Products|Category}
+TopSellers {office|Category}
+TopSellers {outdoor Living|Category}
+TopSellers {outdoor|Category}
+TopSellers {p. c. Hardware|Category}
+TopSellers {p. c.|Category}
+TopSellers {p. c.s|Category}
+TopSellers {pet Supplies|Category}
+TopSellers {pet|Category}
+TopSellers {photo|Category}
+TopSellers {shoes|Category}
+TopSellers {software|Category}
+TopSellers {sporting Goods|Category}
+TopSellers {tools|Category}
+TopSellers {toys|Category}
+TopSellers {v. h. s.|Category}
+TopSellers {video|Category}
+TopSellers {video Games|Category}
+TopSellers {watches|Category}
+TopSellers {wireless|Category}
+TopSellers {wireless Accessories|Category}
+
+HearMore yes
+HearMore yep
+HearMore yeah
+HearMore sure
+HearMore yes please
+HearMore affirmative
+
+DontHearMore no
+DontHearMore nope
+DontHearMore no thank you
+DontHearMore not now
+DontHearMore negative
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

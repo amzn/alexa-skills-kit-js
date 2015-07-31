@@ -1,0 +1,8 @@
+alexa-skills-kit-js
+Copyright 2014-2015 Amazon.com, Inc. or its
+affiliates. All Rights Reserved.
+
+------------------------------------------
+Tide data obtained from the National Oceanic and Atomospheric Administration (NOAA)
+Center for Operational Oceanographic Products and Services (CO-OPS) API:
+http://tidesandcurrents.noaa.gov/api/

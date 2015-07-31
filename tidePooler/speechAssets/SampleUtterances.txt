@@ -1,0 +1,458 @@
+OneshotTideIntent when is high tide
+OneshotTideIntent when high tide is
+OneshotTideIntent when is the next high tide today
+OneshotTideIntent when is next tide
+OneshotTideIntent when will the water be highest today
+OneshotTideIntent when is the highest tide today
+OneshotTideIntent when is the next highest water
+OneshotTideIntent when is today's highest tide
+OneshotTideIntent when is today's high tide
+OneshotTideIntent get high tide
+OneshotTideIntent tide information
+
+OneshotTideIntent when is high tide in {Seattle|City}
+OneshotTideIntent when is the next tide for {Los Angeles|City}
+OneshotTideIntent when is next tide in {San Diego|City} California
+OneshotTideIntent when will the water be highest for {San Francisco|City}
+OneshotTideIntent when is the highest tide in {San Diego|City}
+OneshotTideIntent when is the next highest water for {Seattle|City} Washington
+OneshotTideIntent get high tide for {Monterey|City} California
+OneshotTideIntent tide information for {Monterey|City}
+
+OneshotTideIntent when is high tide on {Sunday|Date}
+OneshotTideIntent when is the next tide for {Monday|Date}
+OneshotTideIntent when is next tide on {Tuesday|Date}
+OneshotTideIntent when will the water be highest for {Wednesday|Date}
+OneshotTideIntent when is the highest tide {Thursday|Date}
+OneshotTideIntent when is the next highest water for {Friday|Date}
+OneshotTideIntent when is high tide on {Saturday|Date}
+OneshotTideIntent get high tide for {Tomorrow|Date}
+OneshotTideIntent get high tide {Tomorrow|Date}
+OneshotTideIntent when is high tide {Tomorrow|Date}
+OneshotTideIntent tide information for {Saturday|Date}
+
+OneshotTideIntent when is high tide in {Seattle|City} on {Sunday|Date}
+OneshotTideIntent when is the next tide for {Los Angeles|City} for {Monday|Date}
+OneshotTideIntent when is next tide in {San Diego|City} California on {Tuesday|Date}
+OneshotTideIntent when will the water be highest for {San Francisco|City} for {Wednesday|Date}
+OneshotTideIntent when is the highest tide in {San Diego|City} {Thursday|City}
+OneshotTideIntent when is the next highest water for {Seattle|City} Washington for {Friday|City}
+OneshotTideIntent get high tide for {Monterey|City} California {Tomorrow|Date}
+OneshotTideIntent when is high tide for {Seattle|City}  {Tomorrow|Date}
+OneshotTideIntent when is high tide for {Los Angeles|City}  {Today|Date}
+OneshotTideIntent tide information for {Monterey|City} on {Saturday|Date}
+
+DialogTideIntent {Seattle|City}
+DialogTideIntent {Seattle|City} Washington
+DialogTideIntent {Los Angeles|City}
+DialogTideIntent {Los Angeles|City} California
+DialogTideIntent {San Francisco|City}
+DialogTideIntent {San Francisco|City} California
+DialogTideIntent {San Diego|City}
+DialogTideIntent {San Diego|City} California
+DialogTideIntent {Monterey|City}
+DialogTideIntent {Monterey|City} California
+
+DialogTideIntent {Monday|Date}
+DialogTideIntent {Tuesday|Date}
+DialogTideIntent {Wednesday|Date}
+DialogTideIntent {Thursday|Date}
+DialogTideIntent {Friday|Date}
+DialogTideIntent {Saturday|Date}
+DialogTideIntent {Sunday|Date}
+DialogTideIntent {next Monday|Date}
+DialogTideIntent {next Tuesday|Date}
+DialogTideIntent {next Wednesday|Date}
+DialogTideIntent {next Thursday|Date}
+DialogTideIntent {next Friday|Date}
+DialogTideIntent {next Saturday|Date}
+DialogTideIntent {next Sunday|Date}
+DialogTideIntent {today|Date}
+DialogTideIntent {tomorrow|Date}
+DialogTideIntent {yesterday|Date}
+DialogTideIntent {january first|Date}
+DialogTideIntent {january second|Date}
+DialogTideIntent {january third|Date}
+DialogTideIntent {january fourth|Date}
+DialogTideIntent {january fifth|Date}
+DialogTideIntent {january sixth|Date}
+DialogTideIntent {january seventh|Date}
+DialogTideIntent {january eighth|Date}
+DialogTideIntent {january ninth|Date}
+DialogTideIntent {january tenth|Date}
+DialogTideIntent {january eleventh|Date}
+DialogTideIntent {january twelfth|Date}
+DialogTideIntent {january thirteenth|Date}
+DialogTideIntent {january fourteenth|Date}
+DialogTideIntent {january fifteenth|Date}
+DialogTideIntent {january sixteenth|Date}
+DialogTideIntent {january seventeenth|Date}
+DialogTideIntent {january eighteenth|Date}
+DialogTideIntent {january nineteenth|Date}
+DialogTideIntent {january twentieth|Date}
+DialogTideIntent {january twenty first|Date}
+DialogTideIntent {january twenty second|Date}
+DialogTideIntent {january twenty third|Date}
+DialogTideIntent {january twenty fourth|Date}
+DialogTideIntent {january twenty fifth|Date}
+DialogTideIntent {january twenty sixth|Date}
+DialogTideIntent {january twenty seventh|Date}
+DialogTideIntent {january twenty eighth|Date}
+DialogTideIntent {january twenty ninth|Date}
+DialogTideIntent {january thirtieth|Date}
+DialogTideIntent {january thirty first|Date}
+DialogTideIntent {february first|Date}
+DialogTideIntent {february second|Date}
+DialogTideIntent {february third|Date}
+DialogTideIntent {february fourth|Date}
+DialogTideIntent {february fifth|Date}
+DialogTideIntent {february sixth|Date}
+DialogTideIntent {february seventh|Date}
+DialogTideIntent {february eighth|Date}
+DialogTideIntent {february ninth|Date}
+DialogTideIntent {february tenth|Date}
+DialogTideIntent {february eleventh|Date}
+DialogTideIntent {february twelfth|Date}
+DialogTideIntent {february thirteenth|Date}
+DialogTideIntent {february fourteenth|Date}
+DialogTideIntent {february fifteenth|Date}
+DialogTideIntent {february sixteenth|Date}
+DialogTideIntent {february seventeenth|Date}
+DialogTideIntent {february eighteenth|Date}
+DialogTideIntent {february nineteenth|Date}
+DialogTideIntent {february twentieth|Date}
+DialogTideIntent {february twenty first|Date}
+DialogTideIntent {february twenty second|Date}
+DialogTideIntent {february twenty third|Date}
+DialogTideIntent {february twenty fourth|Date}
+DialogTideIntent {february twenty fifth|Date}
+DialogTideIntent {february twenty sixth|Date}
+DialogTideIntent {february twenty seventh|Date}
+DialogTideIntent {february twenty eighth|Date}
+DialogTideIntent {february twenty ninth|Date}
+DialogTideIntent {march first|Date}
+DialogTideIntent {march second|Date}
+DialogTideIntent {march third|Date}
+DialogTideIntent {march fourth|Date}
+DialogTideIntent {march fifth|Date}
+DialogTideIntent {march sixth|Date}
+DialogTideIntent {march seventh|Date}
+DialogTideIntent {march eighth|Date}
+DialogTideIntent {march ninth|Date}
+DialogTideIntent {march tenth|Date}
+DialogTideIntent {march eleventh|Date}
+DialogTideIntent {march twelfth|Date}
+DialogTideIntent {march thirteenth|Date}
+DialogTideIntent {march fourteenth|Date}
+DialogTideIntent {march fifteenth|Date}
+DialogTideIntent {march sixteenth|Date}
+DialogTideIntent {march seventeenth|Date}
+DialogTideIntent {march eighteenth|Date}
+DialogTideIntent {march nineteenth|Date}
+DialogTideIntent {march twentieth|Date}
+DialogTideIntent {march twenty first|Date}
+DialogTideIntent {march twenty second|Date}
+DialogTideIntent {march twenty third|Date}
+DialogTideIntent {march twenty fourth|Date}
+DialogTideIntent {march twenty fifth|Date}
+DialogTideIntent {march twenty sixth|Date}
+DialogTideIntent {march twenty seventh|Date}
+DialogTideIntent {march twenty eighth|Date}
+DialogTideIntent {march twenty ninth|Date}
+DialogTideIntent {march thirtieth|Date}
+DialogTideIntent {march thirty first|Date}
+DialogTideIntent {april first|Date}
+DialogTideIntent {april second|Date}
+DialogTideIntent {april third|Date}
+DialogTideIntent {april fourth|Date}
+DialogTideIntent {april fifth|Date}
+DialogTideIntent {april sixth|Date}
+DialogTideIntent {april seventh|Date}
+DialogTideIntent {april eighth|Date}
+DialogTideIntent {april ninth|Date}
+DialogTideIntent {april tenth|Date}
+DialogTideIntent {april eleventh|Date}
+DialogTideIntent {april twelfth|Date}
+DialogTideIntent {april thirteenth|Date}
+DialogTideIntent {april fourteenth|Date}
+DialogTideIntent {april fifteenth|Date}
+DialogTideIntent {april sixteenth|Date}
+DialogTideIntent {april seventeenth|Date}
+DialogTideIntent {april eighteenth|Date}
+DialogTideIntent {april nineteenth|Date}
+DialogTideIntent {april twentieth|Date}
+DialogTideIntent {april twenty first|Date}
+DialogTideIntent {april twenty second|Date}
+DialogTideIntent {april twenty third|Date}
+DialogTideIntent {april twenty fourth|Date}
+DialogTideIntent {april twenty fifth|Date}
+DialogTideIntent {april twenty sixth|Date}
+DialogTideIntent {april twenty seventh|Date}
+DialogTideIntent {april twenty eighth|Date}
+DialogTideIntent {april twenty ninth|Date}
+DialogTideIntent {april thirtieth|Date}
+DialogTideIntent {may first|Date}
+DialogTideIntent {may second|Date}
+DialogTideIntent {may third|Date}
+DialogTideIntent {may fourth|Date}
+DialogTideIntent {may fifth|Date}
+DialogTideIntent {may sixth|Date}
+DialogTideIntent {may seventh|Date}
+DialogTideIntent {may eighth|Date}
+DialogTideIntent {may ninth|Date}
+DialogTideIntent {may tenth|Date}
+DialogTideIntent {may eleventh|Date}
+DialogTideIntent {may twelfth|Date}
+DialogTideIntent {may thirteenth|Date}
+DialogTideIntent {may fourteenth|Date}
+DialogTideIntent {may fifteenth|Date}
+DialogTideIntent {may sixteenth|Date}
+DialogTideIntent {may seventeenth|Date}
+DialogTideIntent {may eighteenth|Date}
+DialogTideIntent {may nineteenth|Date}
+DialogTideIntent {may twentieth|Date}
+DialogTideIntent {may twenty first|Date}
+DialogTideIntent {may twenty second|Date}
+DialogTideIntent {may twenty third|Date}
+DialogTideIntent {may twenty fourth|Date}
+DialogTideIntent {may twenty fifth|Date}
+DialogTideIntent {may twenty sixth|Date}
+DialogTideIntent {may twenty seventh|Date}
+DialogTideIntent {may twenty eighth|Date}
+DialogTideIntent {may twenty ninth|Date}
+DialogTideIntent {may thirtieth|Date}
+DialogTideIntent {may thirty first|Date}
+DialogTideIntent {june first|Date}
+DialogTideIntent {june second|Date}
+DialogTideIntent {june third|Date}
+DialogTideIntent {june fourth|Date}
+DialogTideIntent {june fifth|Date}
+DialogTideIntent {june sixth|Date}
+DialogTideIntent {june seventh|Date}
+DialogTideIntent {june eighth|Date}
+DialogTideIntent {june ninth|Date}
+DialogTideIntent {june tenth|Date}
+DialogTideIntent {june eleventh|Date}
+DialogTideIntent {june twelfth|Date}
+DialogTideIntent {june thirteenth|Date}
+DialogTideIntent {june fourteenth|Date}
+DialogTideIntent {june fifteenth|Date}
+DialogTideIntent {june sixteenth|Date}
+DialogTideIntent {june seventeenth|Date}
+DialogTideIntent {june eighteenth|Date}
+DialogTideIntent {june nineteenth|Date}
+DialogTideIntent {june twentieth|Date}
+DialogTideIntent {june twenty first|Date}
+DialogTideIntent {june twenty second|Date}
+DialogTideIntent {june twenty third|Date}
+DialogTideIntent {june twenty fourth|Date}
+DialogTideIntent {june twenty fifth|Date}
+DialogTideIntent {june twenty sixth|Date}
+DialogTideIntent {june twenty seventh|Date}
+DialogTideIntent {june twenty eighth|Date}
+DialogTideIntent {june twenty ninth|Date}
+DialogTideIntent {june thirtieth|Date}
+DialogTideIntent {july first|Date}
+DialogTideIntent {july second|Date}
+DialogTideIntent {july third|Date}
+DialogTideIntent {july fourth|Date}
+DialogTideIntent {july fifth|Date}
+DialogTideIntent {july sixth|Date}
+DialogTideIntent {july seventh|Date}
+DialogTideIntent {july eighth|Date}
+DialogTideIntent {july ninth|Date}
+DialogTideIntent {july tenth|Date}
+DialogTideIntent {july eleventh|Date}
+DialogTideIntent {july twelfth|Date}
+DialogTideIntent {july thirteenth|Date}
+DialogTideIntent {july fourteenth|Date}
+DialogTideIntent {july fifteenth|Date}
+DialogTideIntent {july sixteenth|Date}
+DialogTideIntent {july seventeenth|Date}
+DialogTideIntent {july eighteenth|Date}
+DialogTideIntent {july nineteenth|Date}
+DialogTideIntent {july twentieth|Date}
+DialogTideIntent {july twenty first|Date}
+DialogTideIntent {july twenty second|Date}
+DialogTideIntent {july twenty third|Date}
+DialogTideIntent {july twenty fourth|Date}
+DialogTideIntent {july twenty fifth|Date}
+DialogTideIntent {july twenty sixth|Date}
+DialogTideIntent {july twenty seventh|Date}
+DialogTideIntent {july twenty eighth|Date}
+DialogTideIntent {july twenty ninth|Date}
+DialogTideIntent {july thirtieth|Date}
+DialogTideIntent {july thirty first|Date}
+DialogTideIntent {august first|Date}
+DialogTideIntent {august second|Date}
+DialogTideIntent {august third|Date}
+DialogTideIntent {august fourth|Date}
+DialogTideIntent {august fifth|Date}
+DialogTideIntent {august sixth|Date}
+DialogTideIntent {august seventh|Date}
+DialogTideIntent {august eighth|Date}
+DialogTideIntent {august ninth|Date}
+DialogTideIntent {august tenth|Date}
+DialogTideIntent {august eleventh|Date}
+DialogTideIntent {august twelfth|Date}
+DialogTideIntent {august thirteenth|Date}
+DialogTideIntent {august fourteenth|Date}
+DialogTideIntent {august fifteenth|Date}
+DialogTideIntent {august sixteenth|Date}
+DialogTideIntent {august seventeenth|Date}
+DialogTideIntent {august eighteenth|Date}
+DialogTideIntent {august nineteenth|Date}
+DialogTideIntent {august twentieth|Date}
+DialogTideIntent {august twenty first|Date}
+DialogTideIntent {august twenty second|Date}
+DialogTideIntent {august twenty third|Date}
+DialogTideIntent {august twenty fourth|Date}
+DialogTideIntent {august twenty fifth|Date}
+DialogTideIntent {august twenty sixth|Date}
+DialogTideIntent {august twenty seventh|Date}
+DialogTideIntent {august twenty eighth|Date}
+DialogTideIntent {august twenty ninth|Date}
+DialogTideIntent {august thirtieth|Date}
+DialogTideIntent {august thirty first|Date}
+DialogTideIntent {september first|Date}
+DialogTideIntent {september second|Date}
+DialogTideIntent {september third|Date}
+DialogTideIntent {september fourth|Date}
+DialogTideIntent {september fifth|Date}
+DialogTideIntent {september sixth|Date}
+DialogTideIntent {september seventh|Date}
+DialogTideIntent {september eighth|Date}
+DialogTideIntent {september ninth|Date}
+DialogTideIntent {september tenth|Date}
+DialogTideIntent {september eleventh|Date}
+DialogTideIntent {september twelfth|Date}
+DialogTideIntent {september thirteenth|Date}
+DialogTideIntent {september fourteenth|Date}
+DialogTideIntent {september fifteenth|Date}
+DialogTideIntent {september sixteenth|Date}
+DialogTideIntent {september seventeenth|Date}
+DialogTideIntent {september eighteenth|Date}
+DialogTideIntent {september nineteenth|Date}
+DialogTideIntent {september twentieth|Date}
+DialogTideIntent {september twenty first|Date}
+DialogTideIntent {september twenty second|Date}
+DialogTideIntent {september twenty third|Date}
+DialogTideIntent {september twenty fourth|Date}
+DialogTideIntent {september twenty fifth|Date}
+DialogTideIntent {september twenty sixth|Date}
+DialogTideIntent {september twenty seventh|Date}
+DialogTideIntent {september twenty eighth|Date}
+DialogTideIntent {september twenty ninth|Date}
+DialogTideIntent {september thirtieth|Date}
+DialogTideIntent {october first|Date}
+DialogTideIntent {october second|Date}
+DialogTideIntent {october third|Date}
+DialogTideIntent {october fourth|Date}
+DialogTideIntent {october fifth|Date}
+DialogTideIntent {october sixth|Date}
+DialogTideIntent {october seventh|Date}
+DialogTideIntent {october eighth|Date}
+DialogTideIntent {october ninth|Date}
+DialogTideIntent {october tenth|Date}
+DialogTideIntent {october eleventh|Date}
+DialogTideIntent {october twelfth|Date}
+DialogTideIntent {october thirteenth|Date}
+DialogTideIntent {october fourteenth|Date}
+DialogTideIntent {october fifteenth|Date}
+DialogTideIntent {october sixteenth|Date}
+DialogTideIntent {october seventeenth|Date}
+DialogTideIntent {october eighteenth|Date}
+DialogTideIntent {october nineteenth|Date}
+DialogTideIntent {october twentieth|Date}
+DialogTideIntent {october twenty first|Date}
+DialogTideIntent {october twenty second|Date}
+DialogTideIntent {october twenty third|Date}
+DialogTideIntent {october twenty fourth|Date}
+DialogTideIntent {october twenty fifth|Date}
+DialogTideIntent {october twenty sixth|Date}
+DialogTideIntent {october twenty seventh|Date}
+DialogTideIntent {october twenty eighth|Date}
+DialogTideIntent {october twenty ninth|Date}
+DialogTideIntent {october thirtieth|Date}
+DialogTideIntent {october thirty first|Date}
+DialogTideIntent {november first|Date}
+DialogTideIntent {november second|Date}
+DialogTideIntent {november third|Date}
+DialogTideIntent {november fourth|Date}
+DialogTideIntent {november fifth|Date}
+DialogTideIntent {november sixth|Date}
+DialogTideIntent {november seventh|Date}
+DialogTideIntent {november eighth|Date}
+DialogTideIntent {november ninth|Date}
+DialogTideIntent {november tenth|Date}
+DialogTideIntent {november eleventh|Date}
+DialogTideIntent {november twelfth|Date}
+DialogTideIntent {november thirteenth|Date}
+DialogTideIntent {november fourteenth|Date}
+DialogTideIntent {november fifteenth|Date}
+DialogTideIntent {november sixteenth|Date}
+DialogTideIntent {november seventeenth|Date}
+DialogTideIntent {november eighteenth|Date}
+DialogTideIntent {november nineteenth|Date}
+DialogTideIntent {november twentieth|Date}
+DialogTideIntent {november twenty first|Date}
+DialogTideIntent {november twenty second|Date}
+DialogTideIntent {november twenty third|Date}
+DialogTideIntent {november twenty fourth|Date}
+DialogTideIntent {november twenty fifth|Date}
+DialogTideIntent {november twenty sixth|Date}
+DialogTideIntent {november twenty seventh|Date}
+DialogTideIntent {november twenty eighth|Date}
+DialogTideIntent {november twenty ninth|Date}
+DialogTideIntent {november thirtieth|Date}
+DialogTideIntent {december first|Date}
+DialogTideIntent {december second|Date}
+DialogTideIntent {december third|Date}
+DialogTideIntent {december fourth|Date}
+DialogTideIntent {december fifth|Date}
+DialogTideIntent {december sixth|Date}
+DialogTideIntent {december seventh|Date}
+DialogTideIntent {december eighth|Date}
+DialogTideIntent {december ninth|Date}
+DialogTideIntent {december tenth|Date}
+DialogTideIntent {december eleventh|Date}
+DialogTideIntent {december twelfth|Date}
+DialogTideIntent {december thirteenth|Date}
+DialogTideIntent {december fourteenth|Date}
+DialogTideIntent {december fifteenth|Date}
+DialogTideIntent {december sixteenth|Date}
+DialogTideIntent {december seventeenth|Date}
+DialogTideIntent {december eighteenth|Date}
+DialogTideIntent {december nineteenth|Date}
+DialogTideIntent {december twentieth|Date}
+DialogTideIntent {december twenty first|Date}
+DialogTideIntent {december twenty second|Date}
+DialogTideIntent {december twenty third|Date}
+DialogTideIntent {december twenty fourth|Date}
+DialogTideIntent {december twenty fifth|Date}
+DialogTideIntent {december twenty sixth|Date}
+DialogTideIntent {december twenty seventh|Date}
+DialogTideIntent {december twenty eighth|Date}
+DialogTideIntent {december twenty ninth|Date}
+DialogTideIntent {december thirtieth|Date}
+DialogTideIntent {december thirty first|Date}
+
+SupportedCitiesIntent what cities are supported
+SupportedCitiesIntent what cities
+SupportedCitiesIntent which cities
+SupportedCitiesIntent which cities do you know
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

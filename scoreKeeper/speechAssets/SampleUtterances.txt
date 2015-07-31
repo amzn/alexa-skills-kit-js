@@ -1,0 +1,1112 @@
+ResetPlayersIntent   clear
+ResetPlayersIntent   clear a game
+ResetPlayersIntent   clear game
+ResetPlayersIntent   clear points
+ResetPlayersIntent   clear numbers
+ResetPlayersIntent   clear score
+ResetPlayersIntent   clear last game
+ResetPlayersIntent   clear last participants
+ResetPlayersIntent   clear last players
+ResetPlayersIntent   clear last points
+ResetPlayersIntent   clear last numbers
+ResetPlayersIntent   clear last score
+ResetPlayersIntent   clear my players
+ResetPlayersIntent   clear my game
+ResetPlayersIntent   clear my participants
+ResetPlayersIntent   clear my points
+ResetPlayersIntent   clear my numbers
+ResetPlayersIntent   clear my score
+ResetPlayersIntent   clear old game
+ResetPlayersIntent   clear old participants
+ResetPlayersIntent   clear old players
+ResetPlayersIntent   clear old points
+ResetPlayersIntent   clear old numbers
+ResetPlayersIntent   clear old score
+ResetPlayersIntent   clear our game
+ResetPlayersIntent   clear our participants
+ResetPlayersIntent   clear our players
+ResetPlayersIntent   clear our points
+ResetPlayersIntent   clear our numbers
+ResetPlayersIntent   clear our score
+ResetPlayersIntent   clear participants
+ResetPlayersIntent   clear past game
+ResetPlayersIntent   clear past participants
+ResetPlayersIntent   clear past players
+ResetPlayersIntent   clear past points
+ResetPlayersIntent   clear past numbers
+ResetPlayersIntent   clear past score
+ResetPlayersIntent   clear players
+ResetPlayersIntent   clear that game
+ResetPlayersIntent   clear that score
+ResetPlayersIntent   clear the game
+ResetPlayersIntent   clear the participants
+ResetPlayersIntent   clear the players
+ResetPlayersIntent   clear the points
+ResetPlayersIntent   clear the numbers
+ResetPlayersIntent   clear the score
+ResetPlayersIntent   clear those participants
+ResetPlayersIntent   clear those players
+ResetPlayersIntent   clear those points
+ResetPlayersIntent   clear those numbers
+ResetPlayersIntent   delete
+ResetPlayersIntent   delete a game
+ResetPlayersIntent   delete game
+ResetPlayersIntent   delete points
+ResetPlayersIntent   delete numbers
+ResetPlayersIntent   delete score
+ResetPlayersIntent   delete last game
+ResetPlayersIntent   delete last participants
+ResetPlayersIntent   delete last players
+ResetPlayersIntent   delete last points
+ResetPlayersIntent   delete last numbers
+ResetPlayersIntent   delete last score
+ResetPlayersIntent   delete my players
+ResetPlayersIntent   delete my game
+ResetPlayersIntent   delete my participants
+ResetPlayersIntent   delete my points
+ResetPlayersIntent   delete my numbers
+ResetPlayersIntent   delete my score
+ResetPlayersIntent   delete old game
+ResetPlayersIntent   delete old participants
+ResetPlayersIntent   delete old players
+ResetPlayersIntent   delete old points
+ResetPlayersIntent   delete old numbers
+ResetPlayersIntent   delete old score
+ResetPlayersIntent   delete our game
+ResetPlayersIntent   delete our participants
+ResetPlayersIntent   delete our players
+ResetPlayersIntent   delete our points
+ResetPlayersIntent   delete our numbers
+ResetPlayersIntent   delete our score
+ResetPlayersIntent   delete participants
+ResetPlayersIntent   delete past game
+ResetPlayersIntent   delete past participants
+ResetPlayersIntent   delete past players
+ResetPlayersIntent   delete past points
+ResetPlayersIntent   delete past numbers
+ResetPlayersIntent   delete past score
+ResetPlayersIntent   delete players
+ResetPlayersIntent   delete that game
+ResetPlayersIntent   delete that score
+ResetPlayersIntent   delete the game
+ResetPlayersIntent   delete the participants
+ResetPlayersIntent   delete the players
+ResetPlayersIntent   delete the points
+ResetPlayersIntent   delete the numbers
+ResetPlayersIntent   delete the score
+ResetPlayersIntent   delete those participants
+ResetPlayersIntent   delete those players
+ResetPlayersIntent   delete those points
+ResetPlayersIntent   delete those numbers
+ResetPlayersIntent   erase
+ResetPlayersIntent   erase a game
+ResetPlayersIntent   erase game
+ResetPlayersIntent   erase points
+ResetPlayersIntent   erase numbers
+ResetPlayersIntent   erase score
+ResetPlayersIntent   erase last game
+ResetPlayersIntent   erase last participants
+ResetPlayersIntent   erase last players
+ResetPlayersIntent   erase last points
+ResetPlayersIntent   erase last numbers
+ResetPlayersIntent   erase last score
+ResetPlayersIntent   erase my players
+ResetPlayersIntent   erase my game
+ResetPlayersIntent   erase my participants
+ResetPlayersIntent   erase my points
+ResetPlayersIntent   erase my numbers
+ResetPlayersIntent   erase my score
+ResetPlayersIntent   erase old game
+ResetPlayersIntent   erase old participants
+ResetPlayersIntent   erase old players
+ResetPlayersIntent   erase old points
+ResetPlayersIntent   erase old numbers
+ResetPlayersIntent   erase old score
+ResetPlayersIntent   erase our game
+ResetPlayersIntent   erase our participants
+ResetPlayersIntent   erase our players
+ResetPlayersIntent   erase our points
+ResetPlayersIntent   erase our numbers
+ResetPlayersIntent   erase our score
+ResetPlayersIntent   erase participants
+ResetPlayersIntent   erase past game
+ResetPlayersIntent   erase past participants
+ResetPlayersIntent   erase past players
+ResetPlayersIntent   erase past points
+ResetPlayersIntent   erase past numbers
+ResetPlayersIntent   erase past score
+ResetPlayersIntent   erase players
+ResetPlayersIntent   erase that game
+ResetPlayersIntent   erase that score
+ResetPlayersIntent   erase the game
+ResetPlayersIntent   erase the participants
+ResetPlayersIntent   erase the players
+ResetPlayersIntent   erase the points
+ResetPlayersIntent   erase the numbers
+ResetPlayersIntent   erase the score
+ResetPlayersIntent   erase those participants
+ResetPlayersIntent   erase those players
+ResetPlayersIntent   erase those points
+ResetPlayersIntent   erase those numbers
+ResetPlayersIntent   forget
+ResetPlayersIntent   forget a game
+ResetPlayersIntent   forget game
+ResetPlayersIntent   forget points
+ResetPlayersIntent   forget numbers
+ResetPlayersIntent   forget score
+ResetPlayersIntent   forget last game
+ResetPlayersIntent   forget last participants
+ResetPlayersIntent   forget last players
+ResetPlayersIntent   forget last points
+ResetPlayersIntent   forget last numbers
+ResetPlayersIntent   forget last score
+ResetPlayersIntent   forget my players
+ResetPlayersIntent   forget my game
+ResetPlayersIntent   forget my participants
+ResetPlayersIntent   forget my points
+ResetPlayersIntent   forget my numbers
+ResetPlayersIntent   forget my score
+ResetPlayersIntent   forget old game
+ResetPlayersIntent   forget old participants
+ResetPlayersIntent   forget old players
+ResetPlayersIntent   forget old points
+ResetPlayersIntent   forget old numbers
+ResetPlayersIntent   forget old score
+ResetPlayersIntent   forget our game
+ResetPlayersIntent   forget our participants
+ResetPlayersIntent   forget our players
+ResetPlayersIntent   forget our points
+ResetPlayersIntent   forget our numbers
+ResetPlayersIntent   forget our score
+ResetPlayersIntent   forget participants
+ResetPlayersIntent   forget past game
+ResetPlayersIntent   forget past participants
+ResetPlayersIntent   forget past players
+ResetPlayersIntent   forget past points
+ResetPlayersIntent   forget past numbers
+ResetPlayersIntent   forget past score
+ResetPlayersIntent   forget players
+ResetPlayersIntent   forget that game
+ResetPlayersIntent   forget that score
+ResetPlayersIntent   forget the game
+ResetPlayersIntent   forget the participants
+ResetPlayersIntent   forget the players
+ResetPlayersIntent   forget the points
+ResetPlayersIntent   forget the numbers
+ResetPlayersIntent   forget the score
+ResetPlayersIntent   forget those participants
+ResetPlayersIntent   forget those players
+ResetPlayersIntent   forget those points
+ResetPlayersIntent   forget those numbers
+ResetPlayersIntent   remove
+ResetPlayersIntent   remove a game
+ResetPlayersIntent   remove game
+ResetPlayersIntent   remove points
+ResetPlayersIntent   remove numbers
+ResetPlayersIntent   remove score
+ResetPlayersIntent   remove last game
+ResetPlayersIntent   remove last participants
+ResetPlayersIntent   remove last players
+ResetPlayersIntent   remove last points
+ResetPlayersIntent   remove last numbers
+ResetPlayersIntent   remove last score
+ResetPlayersIntent   remove my players
+ResetPlayersIntent   remove my game
+ResetPlayersIntent   remove my participants
+ResetPlayersIntent   remove my points
+ResetPlayersIntent   remove my numbers
+ResetPlayersIntent   remove my score
+ResetPlayersIntent   remove old game
+ResetPlayersIntent   remove old participants
+ResetPlayersIntent   remove old players
+ResetPlayersIntent   remove old points
+ResetPlayersIntent   remove old numbers
+ResetPlayersIntent   remove old score
+ResetPlayersIntent   remove our game
+ResetPlayersIntent   remove our participants
+ResetPlayersIntent   remove our players
+ResetPlayersIntent   remove our points
+ResetPlayersIntent   remove our numbers
+ResetPlayersIntent   remove our score
+ResetPlayersIntent   remove participants
+ResetPlayersIntent   remove past game
+ResetPlayersIntent   remove past participants
+ResetPlayersIntent   remove past players
+ResetPlayersIntent   remove past points
+ResetPlayersIntent   remove past numbers
+ResetPlayersIntent   remove past score
+ResetPlayersIntent   remove players
+ResetPlayersIntent   remove that game
+ResetPlayersIntent   remove that score
+ResetPlayersIntent   remove the game
+ResetPlayersIntent   remove the participants
+ResetPlayersIntent   remove the players
+ResetPlayersIntent   remove the points
+ResetPlayersIntent   remove the numbers
+ResetPlayersIntent   remove the score
+ResetPlayersIntent   remove those participants
+ResetPlayersIntent   remove those players
+ResetPlayersIntent   remove those points
+ResetPlayersIntent   remove those numbers
+ResetPlayersIntent   reset
+ResetPlayersIntent   reset a game
+ResetPlayersIntent   reset game
+ResetPlayersIntent   reset points
+ResetPlayersIntent   reset numbers
+ResetPlayersIntent   reset score
+ResetPlayersIntent   reset last game
+ResetPlayersIntent   reset last participants
+ResetPlayersIntent   reset last players
+ResetPlayersIntent   reset last points
+ResetPlayersIntent   reset last numbers
+ResetPlayersIntent   reset last score
+ResetPlayersIntent   reset my players
+ResetPlayersIntent   reset my game
+ResetPlayersIntent   reset my participants
+ResetPlayersIntent   reset my points
+ResetPlayersIntent   reset my numbers
+ResetPlayersIntent   reset my score
+ResetPlayersIntent   reset old game
+ResetPlayersIntent   reset old participants
+ResetPlayersIntent   reset old players
+ResetPlayersIntent   reset old points
+ResetPlayersIntent   reset old numbers
+ResetPlayersIntent   reset old score
+ResetPlayersIntent   reset our game
+ResetPlayersIntent   reset our participants
+ResetPlayersIntent   reset our players
+ResetPlayersIntent   reset our points
+ResetPlayersIntent   reset our numbers
+ResetPlayersIntent   reset our score
+ResetPlayersIntent   reset participants
+ResetPlayersIntent   reset past game
+ResetPlayersIntent   reset past participants
+ResetPlayersIntent   reset past players
+ResetPlayersIntent   reset past points
+ResetPlayersIntent   reset past numbers
+ResetPlayersIntent   reset past score
+ResetPlayersIntent   reset players
+ResetPlayersIntent   reset that game
+ResetPlayersIntent   reset that score
+ResetPlayersIntent   reset the game
+ResetPlayersIntent   reset the participants
+ResetPlayersIntent   reset the players
+ResetPlayersIntent   reset the points
+ResetPlayersIntent   reset the numbers
+ResetPlayersIntent   reset the score
+ResetPlayersIntent   reset those participants
+ResetPlayersIntent   reset those players
+ResetPlayersIntent   reset those points
+ResetPlayersIntent   reset those numbers
+ResetPlayersIntent   wipe
+ResetPlayersIntent   wipe a game
+ResetPlayersIntent   wipe game
+ResetPlayersIntent   wipe points
+ResetPlayersIntent   wipe numbers
+ResetPlayersIntent   wipe score
+ResetPlayersIntent   wipe last game
+ResetPlayersIntent   wipe last participants
+ResetPlayersIntent   wipe last players
+ResetPlayersIntent   wipe last points
+ResetPlayersIntent   wipe last numbers
+ResetPlayersIntent   wipe last score
+ResetPlayersIntent   wipe my players
+ResetPlayersIntent   wipe my game
+ResetPlayersIntent   wipe my participants
+ResetPlayersIntent   wipe my points
+ResetPlayersIntent   wipe my numbers
+ResetPlayersIntent   wipe my score
+ResetPlayersIntent   wipe old game
+ResetPlayersIntent   wipe old participants
+ResetPlayersIntent   wipe old players
+ResetPlayersIntent   wipe old points
+ResetPlayersIntent   wipe old numbers
+ResetPlayersIntent   wipe old score
+ResetPlayersIntent   wipe our game
+ResetPlayersIntent   wipe our participants
+ResetPlayersIntent   wipe our players
+ResetPlayersIntent   wipe our points
+ResetPlayersIntent   wipe our numbers
+ResetPlayersIntent   wipe our score
+ResetPlayersIntent   wipe participants
+ResetPlayersIntent   wipe past game
+ResetPlayersIntent   wipe past participants
+ResetPlayersIntent   wipe past players
+ResetPlayersIntent   wipe past points
+ResetPlayersIntent   wipe past numbers
+ResetPlayersIntent   wipe past score
+ResetPlayersIntent   wipe players
+ResetPlayersIntent   wipe that game
+ResetPlayersIntent   wipe that score
+ResetPlayersIntent   wipe the game
+ResetPlayersIntent   wipe the participants
+ResetPlayersIntent   wipe the players
+ResetPlayersIntent   wipe the points
+ResetPlayersIntent   wipe the numbers
+ResetPlayersIntent   wipe the score
+ResetPlayersIntent   wipe those participants
+ResetPlayersIntent   wipe those players
+ResetPlayersIntent   wipe those points
+ResetPlayersIntent   wipe those numbers
+
+NewGameIntent    begin a game
+NewGameIntent    begin a new game
+NewGameIntent    begin game
+NewGameIntent    begin new game
+NewGameIntent    create a game
+NewGameIntent    create a new game
+NewGameIntent    create game
+NewGameIntent    create new game
+NewGameIntent    do a game
+NewGameIntent    do a new game
+NewGameIntent    do game
+NewGameIntent    do new game
+NewGameIntent    make a game
+NewGameIntent    make a new game
+NewGameIntent    make game
+NewGameIntent    make new game
+NewGameIntent    new game
+NewGameIntent    open a game
+NewGameIntent    open a new game
+NewGameIntent    open game
+NewGameIntent    open new game
+NewGameIntent    restart
+NewGameIntent    restart game
+NewGameIntent    set up a game
+NewGameIntent    set up a new game
+NewGameIntent    set up game
+NewGameIntent    set up new game
+NewGameIntent    begin score
+NewGameIntent    create score
+NewGameIntent    do score
+NewGameIntent    make score
+NewGameIntent    open score
+NewGameIntent    set up score
+NewGameIntent    start a game
+
+TellScoresIntent first
+TellScoresIntent first place
+TellScoresIntent give me the numbers
+TellScoresIntent give me the scoreboard
+TellScoresIntent give us who is in the lead
+TellScoresIntent how do our scores look
+TellScoresIntent last
+TellScoresIntent last place
+TellScoresIntent leaderboard
+TellScoresIntent list current points
+TellScoresIntent loser
+TellScoresIntent numbers
+TellScoresIntent points
+TellScoresIntent rankings
+TellScoresIntent read the standing
+TellScoresIntent recite the points
+TellScoresIntent say the numbers
+TellScoresIntent share our current numbers
+TellScoresIntent standing
+TellScoresIntent state our standing
+TellScoresIntent state the winner
+TellScoresIntent tell me current score
+TellScoresIntent tell me the current score
+TellScoresIntent tell me the score
+TellScoresIntent tell us current score
+TellScoresIntent tell us the current score
+TellScoresIntent tell us the score
+TellScoresIntent tell us who's losing
+TellScoresIntent tell us who's winning
+TellScoresIntent the current score
+TellScoresIntent the ranking
+TellScoresIntent the score
+TellScoresIntent view points
+TellScoresIntent what is the score
+TellScoresIntent what points does everyone have
+TellScoresIntent what scores do everyone have
+TellScoresIntent what's the score
+TellScoresIntent which one of us is in first place
+TellScoresIntent which one of us is winning
+TellScoresIntent who is leading
+TellScoresIntent who's got the most points
+TellScoresIntent who's in the lead
+TellScoresIntent winner
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
+
+ExitIntent   all done
+ExitIntent   complete
+ExitIntent   done
+ExitIntent   end
+ExitIntent   everyone
+ExitIntent   finished
+ExitIntent   forget it
+ExitIntent   i am done
+ExitIntent   i am done adding players
+ExitIntent   I'm done
+ExitIntent   I'm done adding players
+ExitIntent   negative
+ExitIntent   never mind
+ExitIntent   no more
+ExitIntent   no one
+ExitIntent   stop
+ExitIntent   that is everyone
+ExitIntent   that's all
+ExitIntent   that's it
+ExitIntent   you've got all of us
+
+AddPlayerIntent add player {abbie|PlayerName}
+AddPlayerIntent add player {abigail|PlayerName}
+AddPlayerIntent add player {abby|PlayerName}
+AddPlayerIntent add {abe|PlayerName}
+AddPlayerIntent add {abraham|PlayerName} to the game
+AddPlayerIntent add player {abram|PlayerName} to the game
+AddPlayerIntent add {ada|PlayerName} to the game
+AddPlayerIntent {adaline|PlayerName}
+AddPlayerIntent add {addy|PlayerName} to the game
+AddPlayerIntent add {aggy|PlayerName}
+AddPlayerIntent add player {agatha|PlayerName} to the game
+AddPlayerIntent add player {agnes|PlayerName}
+AddPlayerIntent add {augusta|PlayerName}
+AddPlayerIntent add player {augustina|PlayerName}
+AddPlayerIntent {al|PlayerName}
+AddPlayerIntent add player {alan|PlayerName}
+AddPlayerIntent add {albert|PlayerName} to the game
+AddPlayerIntent {aldo|PlayerName}
+AddPlayerIntent add {alexander|PlayerName}
+AddPlayerIntent add player {alfonse|PlayerName}
+AddPlayerIntent add player {alfred|PlayerName} to the game
+AddPlayerIntent add {allan|PlayerName} to the game
+AddPlayerIntent {allen|PlayerName}
+AddPlayerIntent add player {alonzo|PlayerName} to the game
+AddPlayerIntent add {alex|PlayerName} to the game
+AddPlayerIntent add {alexandra|PlayerName} to the game
+AddPlayerIntent add player {allie|PlayerName}
+AddPlayerIntent add player {alice|PlayerName}
+AddPlayerIntent add {alicia|PlayerName}
+AddPlayerIntent add player {almena|PlayerName} to the game
+AddPlayerIntent add {andy|PlayerName}
+AddPlayerIntent {anderson|PlayerName}
+AddPlayerIntent add {andrew|PlayerName}
+AddPlayerIntent add player {ann|PlayerName}
+AddPlayerIntent add {antoinette|PlayerName}
+AddPlayerIntent add {antonia|PlayerName} to the game
+AddPlayerIntent add {rosaenn|PlayerName}
+AddPlayerIntent add player {rosaenna|PlayerName} to the game
+AddPlayerIntent add player {roxanne|PlayerName} to the game
+AddPlayerIntent add {roxanna|PlayerName}
+AddPlayerIntent {annie|PlayerName}
+AddPlayerIntent add {anne|PlayerName}
+AddPlayerIntent {ara|PlayerName}
+AddPlayerIntent {arabella|PlayerName}
+AddPlayerIntent {arabelle|PlayerName}
+AddPlayerIntent {archie|PlayerName}
+AddPlayerIntent add player {archibald|PlayerName}
+AddPlayerIntent add {arly|PlayerName} to the game
+AddPlayerIntent {arlene|PlayerName}
+AddPlayerIntent add player {art|PlayerName}
+AddPlayerIntent add player {arthur|PlayerName}
+AddPlayerIntent {babs|PlayerName}
+AddPlayerIntent add {barbara|PlayerName}
+AddPlayerIntent add {barbie|PlayerName} to the game
+AddPlayerIntent add player {barney|PlayerName}
+AddPlayerIntent add {barnabas|PlayerName} to the game
+AddPlayerIntent add {bernard|PlayerName}
+AddPlayerIntent add {bart|PlayerName} to the game
+AddPlayerIntent add player {bartholomew|PlayerName}
+AddPlayerIntent add {bea|PlayerName}
+AddPlayerIntent add player {beatrice|PlayerName} to the game
+AddPlayerIntent add player {becca|PlayerName} to the game
+AddPlayerIntent add player {rebecca|PlayerName}
+AddPlayerIntent add player {becky|PlayerName} to the game
+AddPlayerIntent {bella|PlayerName}
+AddPlayerIntent add player {isabella|PlayerName}
+AddPlayerIntent add {rosabella|PlayerName}
+AddPlayerIntent add {belle|PlayerName}
+AddPlayerIntent add {belinda|PlayerName} to the game
+AddPlayerIntent add {isabel|PlayerName} to the game
+AddPlayerIntent add player {isabelle|PlayerName} to the game
+AddPlayerIntent add {rosabel|PlayerName} to the game
+AddPlayerIntent add {ben|PlayerName}
+AddPlayerIntent add player {benedict|PlayerName}
+AddPlayerIntent add {benjamin|PlayerName}
+AddPlayerIntent {benjy|PlayerName}
+AddPlayerIntent {bennie|PlayerName}
+AddPlayerIntent add player {berny|PlayerName}
+AddPlayerIntent {bert|PlayerName}
+AddPlayerIntent add player {delbert|PlayerName}
+AddPlayerIntent add player {elbert|PlayerName}
+AddPlayerIntent add {gilbert|PlayerName}
+AddPlayerIntent add player {herbert|PlayerName} to the game
+AddPlayerIntent add {hubert|PlayerName}
+AddPlayerIntent add player {norbert|PlayerName} to the game
+AddPlayerIntent add {bess|PlayerName}
+AddPlayerIntent add {elizabeth|PlayerName} to the game
+AddPlayerIntent add player {beth|PlayerName}
+AddPlayerIntent add {betsy|PlayerName}
+AddPlayerIntent add player {betty|PlayerName}
+AddPlayerIntent add {bill|PlayerName}
+AddPlayerIntent {robert|PlayerName}
+AddPlayerIntent add {william|PlayerName}
+AddPlayerIntent add player {billy|PlayerName}
+AddPlayerIntent {birdie|PlayerName}
+AddPlayerIntent add player {bertha|PlayerName}
+AddPlayerIntent {roberta|PlayerName}
+AddPlayerIntent add player {birtie|PlayerName} to the game
+AddPlayerIntent add {bob|PlayerName}
+AddPlayerIntent {bobbie|PlayerName}
+AddPlayerIntent {bobby|PlayerName}
+AddPlayerIntent add player {brad|PlayerName} to the game
+AddPlayerIntent add player {bradford|PlayerName} to the game
+AddPlayerIntent add {brody|PlayerName}
+AddPlayerIntent add player {broderick|PlayerName}
+AddPlayerIntent {cal|PlayerName}
+AddPlayerIntent add player {calvin|PlayerName}
+AddPlayerIntent add player {cammie|PlayerName}
+AddPlayerIntent add {camile|PlayerName}
+AddPlayerIntent add {carl|PlayerName} to the game
+AddPlayerIntent add player {charles|PlayerName}
+AddPlayerIntent add player {carol|PlayerName}
+AddPlayerIntent {carolann|PlayerName}
+AddPlayerIntent add {caroline|PlayerName} to the game
+AddPlayerIntent add player {cassie|PlayerName}
+AddPlayerIntent add player {cassandra|PlayerName}
+AddPlayerIntent {catherine|PlayerName}
+AddPlayerIntent add player {cathleen|PlayerName}
+AddPlayerIntent add {cathy|PlayerName} to the game
+AddPlayerIntent add {charlie|PlayerName}
+AddPlayerIntent add player {chet|PlayerName} to the game
+AddPlayerIntent {chester|PlayerName}
+AddPlayerIntent add player {chris|PlayerName} to the game
+AddPlayerIntent add {christa|PlayerName}
+AddPlayerIntent add player {christian|PlayerName}
+AddPlayerIntent add player {christina|PlayerName}
+AddPlayerIntent {christine|PlayerName}
+AddPlayerIntent add player {christopher|PlayerName}
+AddPlayerIntent add player {kristen|PlayerName} to the game
+AddPlayerIntent add player {kristin|PlayerName} to the game
+AddPlayerIntent add player {kristy|PlayerName}
+AddPlayerIntent {chuck|PlayerName}
+AddPlayerIntent add player {cindy|PlayerName}
+AddPlayerIntent add {cinderlla|PlayerName} to the game
+AddPlayerIntent add player {cynthia|PlayerName} to the game
+AddPlayerIntent {clara|PlayerName}
+AddPlayerIntent {clarissa|PlayerName}
+AddPlayerIntent add {cliff|PlayerName}
+AddPlayerIntent add {clifford|PlayerName} to the game
+AddPlayerIntent add {clifton|PlayerName}
+AddPlayerIntent add player {connie|PlayerName}
+AddPlayerIntent add {constance|PlayerName} to the game
+AddPlayerIntent add {crissy|PlayerName}
+AddPlayerIntent add player {chrintina|PlayerName}
+AddPlayerIntent {chrintine|PlayerName}
+AddPlayerIntent add {curt|PlayerName} to the game
+AddPlayerIntent add {curtis|PlayerName} to the game
+AddPlayerIntent add {cy|PlayerName} to the game
+AddPlayerIntent {cyrus|PlayerName}
+AddPlayerIntent add {dan|PlayerName}
+AddPlayerIntent {daniel|PlayerName}
+AddPlayerIntent {danny|PlayerName}
+AddPlayerIntent add {dave|PlayerName} to the game
+AddPlayerIntent add player {david|PlayerName} to the game
+AddPlayerIntent {davey|PlayerName}
+AddPlayerIntent add player {deb|PlayerName} to the game
+AddPlayerIntent add {deborah|PlayerName}
+AddPlayerIntent add {debra|PlayerName}
+AddPlayerIntent add player {debbie|PlayerName} to the game
+AddPlayerIntent add player {dee|PlayerName} to the game
+AddPlayerIntent {delores|PlayerName}
+AddPlayerIntent add player {del|PlayerName}
+AddPlayerIntent add {della|PlayerName} to the game
+AddPlayerIntent add {dennie|PlayerName} to the game
+AddPlayerIntent {dennis|PlayerName}
+AddPlayerIntent add player {dennison|PlayerName}
+AddPlayerIntent add player {denny|PlayerName} to the game
+AddPlayerIntent add {dick|PlayerName}
+AddPlayerIntent add {richard|PlayerName}
+AddPlayerIntent add player {dolly|PlayerName}
+AddPlayerIntent add player {dorothy|PlayerName}
+AddPlayerIntent {dom|PlayerName}
+AddPlayerIntent add {domenic|PlayerName} to the game
+AddPlayerIntent add {dominico|PlayerName}
+AddPlayerIntent add {don|PlayerName}
+AddPlayerIntent add player {donald|PlayerName}
+AddPlayerIntent {donato|PlayerName}
+AddPlayerIntent {donnie|PlayerName}
+AddPlayerIntent {donny|PlayerName}
+AddPlayerIntent add player {dora|PlayerName}
+AddPlayerIntent add {eldora|PlayerName}
+AddPlayerIntent add player {isadora|PlayerName} to the game
+AddPlayerIntent add {dot|PlayerName} to the game
+AddPlayerIntent add {dottie|PlayerName}
+AddPlayerIntent add {dotty|PlayerName} to the game
+AddPlayerIntent add {drew|PlayerName} to the game
+AddPlayerIntent add player {ed|PlayerName} to the game
+AddPlayerIntent add {edgar|PlayerName}
+AddPlayerIntent add {edmond|PlayerName}
+AddPlayerIntent add player {edmund|PlayerName}
+AddPlayerIntent add player {eduardo|PlayerName}
+AddPlayerIntent add {edward|PlayerName}
+AddPlayerIntent add player {edwin|PlayerName}
+AddPlayerIntent {eddie|PlayerName}
+AddPlayerIntent add {eddy|PlayerName} to the game
+AddPlayerIntent {edie|PlayerName}
+AddPlayerIntent add {edith|PlayerName}
+AddPlayerIntent add {edyth|PlayerName} to the game
+AddPlayerIntent add player {edythe|PlayerName} to the game
+AddPlayerIntent add {edye|PlayerName}
+AddPlayerIntent add player {elaine|PlayerName} to the game
+AddPlayerIntent add {eleanor|PlayerName}
+AddPlayerIntent add player {ella|PlayerName}
+AddPlayerIntent add {gabriella|PlayerName}
+AddPlayerIntent add {ellen|PlayerName} to the game
+AddPlayerIntent add {emily|PlayerName}
+AddPlayerIntent add {amelia|PlayerName}
+AddPlayerIntent add {emeline|PlayerName}
+AddPlayerIntent add player {emma|PlayerName}
+AddPlayerIntent add {eve|PlayerName} to the game
+AddPlayerIntent add {genevieve|PlayerName} to the game
+AddPlayerIntent add player {fay|PlayerName} to the game
+AddPlayerIntent add {faith|PlayerName} to the game
+AddPlayerIntent add {flo|PlayerName} to the game
+AddPlayerIntent add {florence|PlayerName} to the game
+AddPlayerIntent add player {flora|PlayerName}
+AddPlayerIntent add {fran|PlayerName} to the game
+AddPlayerIntent {frances|PlayerName}
+AddPlayerIntent add player {francine|PlayerName} to the game
+AddPlayerIntent add {francis|PlayerName}
+AddPlayerIntent {francie|PlayerName}
+AddPlayerIntent add player {frank|PlayerName}
+AddPlayerIntent add player {franklin|PlayerName} to the game
+AddPlayerIntent add player {frankie|PlayerName}
+AddPlayerIntent add player {frannie|PlayerName}
+AddPlayerIntent add {franny|PlayerName}
+AddPlayerIntent add {fred|PlayerName}
+AddPlayerIntent add player {ferdinand|PlayerName}
+AddPlayerIntent add player {frederick|PlayerName}
+AddPlayerIntent add {frieda|PlayerName}
+AddPlayerIntent {winnifred|PlayerName}
+AddPlayerIntent add player {freda|PlayerName} to the game
+AddPlayerIntent add {alfreda|PlayerName} to the game
+AddPlayerIntent add player {fredericka|PlayerName}
+AddPlayerIntent add {freddie|PlayerName} to the game
+AddPlayerIntent add player {freddy|PlayerName}
+AddPlayerIntent add {gabby|PlayerName}
+AddPlayerIntent add player {gabrielle|PlayerName} to the game
+AddPlayerIntent add {gabe|PlayerName} to the game
+AddPlayerIntent add player {gabriel|PlayerName} to the game
+AddPlayerIntent {gail|PlayerName}
+AddPlayerIntent {gene|PlayerName}
+AddPlayerIntent add {eugene|PlayerName} to the game
+AddPlayerIntent add player {geoff|PlayerName}
+AddPlayerIntent {geoffrey|PlayerName}
+AddPlayerIntent add player {jeffrey|PlayerName} to the game
+AddPlayerIntent {george|PlayerName}
+AddPlayerIntent add {georgine|PlayerName} to the game
+AddPlayerIntent {gerrie|PlayerName}
+AddPlayerIntent add player {geraldine|PlayerName} to the game
+AddPlayerIntent add player {gerry|PlayerName} to the game
+AddPlayerIntent add player {gerald|PlayerName}
+AddPlayerIntent add {gertie|PlayerName} to the game
+AddPlayerIntent add {gertrude|PlayerName}
+AddPlayerIntent add {gil|PlayerName}
+AddPlayerIntent add player {gina|PlayerName} to the game
+AddPlayerIntent add {regina|PlayerName} to the game
+AddPlayerIntent add player {gretta|PlayerName} to the game
+AddPlayerIntent add {margaretta|PlayerName} to the game
+AddPlayerIntent add {gus|PlayerName}
+AddPlayerIntent add player {augustine|PlayerName}
+AddPlayerIntent add player {augustus|PlayerName} to the game
+AddPlayerIntent {gwen|PlayerName}
+AddPlayerIntent {gwendolyn|PlayerName}
+AddPlayerIntent add {hal|PlayerName} to the game
+AddPlayerIntent add {harold|PlayerName} to the game
+AddPlayerIntent add player {henry|PlayerName} to the game
+AddPlayerIntent add player {hank|PlayerName}
+AddPlayerIntent add {hannah|PlayerName}
+AddPlayerIntent add {johannah|PlayerName} to the game
+AddPlayerIntent add player {harry|PlayerName}
+AddPlayerIntent {hattie|PlayerName}
+AddPlayerIntent add {harriet|PlayerName}
+AddPlayerIntent add player {henny|PlayerName}
+AddPlayerIntent add player {henrietta|PlayerName} to the game
+AddPlayerIntent add player {herb|PlayerName}
+AddPlayerIntent add {hetty|PlayerName}
+AddPlayerIntent add player {hester|PlayerName}
+AddPlayerIntent add {hipsie|PlayerName} to the game
+AddPlayerIntent add {hipsbibah|PlayerName}
+AddPlayerIntent {hugh|PlayerName}
+AddPlayerIntent add player {iggy|PlayerName} to the game
+AddPlayerIntent add player {ignatius|PlayerName} to the game
+AddPlayerIntent add {issy|PlayerName}
+AddPlayerIntent {izzy|PlayerName}
+AddPlayerIntent add player {isadore|PlayerName}
+AddPlayerIntent add player {jake|PlayerName} to the game
+AddPlayerIntent add player {jacob|PlayerName}
+AddPlayerIntent add player {jamie|PlayerName} to the game
+AddPlayerIntent add {james|PlayerName}
+AddPlayerIntent add player {jan|PlayerName} to the game
+AddPlayerIntent add player {janet|PlayerName} to the game
+AddPlayerIntent add player {jay|PlayerName} to the game
+AddPlayerIntent add player {jean|PlayerName} to the game
+AddPlayerIntent {jeb|PlayerName}
+AddPlayerIntent add {jebadiah|PlayerName} to the game
+AddPlayerIntent {jeff|PlayerName}
+AddPlayerIntent add {jefferson|PlayerName}
+AddPlayerIntent add player {jennie|PlayerName} to the game
+AddPlayerIntent add player {jennifer|PlayerName}
+AddPlayerIntent {jenny|PlayerName}
+AddPlayerIntent add player {jerry|PlayerName}
+AddPlayerIntent add player {jeremiah|PlayerName} to the game
+AddPlayerIntent {jessie|PlayerName}
+AddPlayerIntent add {jessica|PlayerName} to the game
+AddPlayerIntent add player {jim|PlayerName}
+AddPlayerIntent add {jimmie|PlayerName}
+AddPlayerIntent add player {jimmy|PlayerName}
+AddPlayerIntent add {jo|PlayerName}
+AddPlayerIntent add player {joan|PlayerName}
+AddPlayerIntent add {joann|PlayerName} to the game
+AddPlayerIntent add player {joanna|PlayerName}
+AddPlayerIntent {joanne|PlayerName}
+AddPlayerIntent {johanna|PlayerName}
+AddPlayerIntent add {josophine|PlayerName}
+AddPlayerIntent {jody|PlayerName}
+AddPlayerIntent add player {joseph|PlayerName} to the game
+AddPlayerIntent add {joe|PlayerName} to the game
+AddPlayerIntent add player {joshua|PlayerName}
+AddPlayerIntent add {joey|PlayerName} to the game
+AddPlayerIntent add {john|PlayerName}
+AddPlayerIntent {johann|PlayerName}
+AddPlayerIntent {jonathan|PlayerName}
+AddScoreIntent give {jon|PlayerName} {eight|ScoreNumber}
+AddScoreIntent give {josey|PlayerName} {seven hundred and one|ScoreNumber} points
+AddScoreIntent {two hundred|ScoreNumber} more for {josh|PlayerName}
+AddScoreIntent {twenty|ScoreNumber} for {joy|PlayerName}
+AddScoreIntent give {joyce|PlayerName} {seventy|ScoreNumber} more points
+AddScoreIntent {three thousand|ScoreNumber} more for {judy|PlayerName}
+AddScoreIntent give {judith|PlayerName} {three thousand|ScoreNumber}
+AddScoreIntent {four|ScoreNumber} more points for {julie|PlayerName}
+AddScoreIntent give {julia|PlayerName} {twenty|ScoreNumber}
+AddScoreIntent {sixteen|ScoreNumber} for {kate|PlayerName}
+AddScoreIntent {fifteen|ScoreNumber} more points for {katelin|PlayerName}
+AddScoreIntent {eight hundred|ScoreNumber} points for {katelyn|PlayerName}
+AddScoreIntent {thirty|ScoreNumber} more for {katherine|PlayerName}
+AddScoreIntent give {kathy|PlayerName} {seven hundred and one|ScoreNumber}
+AddScoreIntent give {kathleen|PlayerName} {eight hundred and twenty six|ScoreNumber} more
+AddScoreIntent {three thousand|ScoreNumber} more points for {kathryn|PlayerName}
+AddScoreIntent {six|ScoreNumber} for {katy|PlayerName}
+AddScoreIntent give {kay|PlayerName} {four thousand five hundred and thirty three|ScoreNumber} points
+AddScoreIntent {one thousand|ScoreNumber} more for {kaye|PlayerName}
+AddScoreIntent {sixty six|ScoreNumber} more for {ken|PlayerName}
+AddScoreIntent {twenty one|ScoreNumber} for {kenneth|PlayerName}
+AddScoreIntent {eighty five|ScoreNumber} points for {kenny|PlayerName}
+AddScoreIntent give {kim|PlayerName} {four|ScoreNumber}
+AddScoreIntent {nine|ScoreNumber} more for {kimberley|PlayerName}
+AddScoreIntent give {kimberly|PlayerName} {six|ScoreNumber}
+AddScoreIntent {seventy|ScoreNumber} for {larry|PlayerName}
+AddScoreIntent {sixty six|ScoreNumber} more for {laurence|PlayerName}
+AddScoreIntent give {lawrence|PlayerName} {two hundred|ScoreNumber} more points
+AddScoreIntent give {lee|PlayerName} {sixty|ScoreNumber}
+AddScoreIntent give {elias|PlayerName} {six thousand and one|ScoreNumber} more points
+AddScoreIntent {four|ScoreNumber} points for {lena|PlayerName}
+AddScoreIntent {six|ScoreNumber} for {aileen|PlayerName}
+AddScoreIntent {eleven|ScoreNumber} points for {darlene|PlayerName}
+AddScoreIntent give {magdelina|PlayerName} {three|ScoreNumber} points
+AddScoreIntent give {lenny|PlayerName} {seven|ScoreNumber} points
+AddScoreIntent give {leonard|PlayerName} {eight hundred|ScoreNumber} more
+AddScoreIntent give {leo|PlayerName} {seven|ScoreNumber} points
+AddScoreIntent {eighty|ScoreNumber} for {leon|PlayerName}
+AddScoreIntent give {napoleon|PlayerName} {seventy two|ScoreNumber} more points
+AddScoreIntent {fifty|ScoreNumber} more for {les|PlayerName}
+AddScoreIntent give {lester|PlayerName} {sixteen|ScoreNumber} more
+AddScoreIntent {five|ScoreNumber} for {libby|PlayerName}
+AddScoreIntent give {lilly|PlayerName} {sixty|ScoreNumber} more points
+AddScoreIntent give {lillian|PlayerName} {eight|ScoreNumber} more points
+AddScoreIntent give {linda|PlayerName} {two hundred|ScoreNumber}
+AddScoreIntent {fourteen|ScoreNumber} for {melinda|PlayerName}
+AddScoreIntent give {lisa|PlayerName} {four|ScoreNumber} points
+AddScoreIntent give {melissa|PlayerName} {twelve|ScoreNumber}
+AddScoreIntent give {liz|PlayerName} {thirty|ScoreNumber} more
+AddScoreIntent give {lizzie|PlayerName} {thirty|ScoreNumber} points
+AddScoreIntent {seventy two|ScoreNumber} for {lois|PlayerName}
+AddScoreIntent {sixty|ScoreNumber} for {louise|PlayerName}
+AddScoreIntent {ten|ScoreNumber} more for {lorie|PlayerName}
+AddScoreIntent give {loretta|PlayerName} {eight|ScoreNumber}
+AddScoreIntent {sixty|ScoreNumber} points for {lorraine|PlayerName}
+AddScoreIntent give {lou|PlayerName} {four|ScoreNumber} more points
+AddScoreIntent give {louis|PlayerName} {one thousand|ScoreNumber}
+AddScoreIntent {fourteen|ScoreNumber} more points for {lucinda|PlayerName}
+AddScoreIntent give {lucy|PlayerName} {eighty|ScoreNumber} more
+AddScoreIntent {seven hundred and one|ScoreNumber} more points for {luke|PlayerName}
+AddScoreIntent {one|ScoreNumber} point for {lucas|PlayerName}
+AddScoreIntent {fifteen|ScoreNumber} more for {lucias|PlayerName}
+AddScoreIntent give {lynn|PlayerName} {eight|ScoreNumber} more
+AddScoreIntent give {carolyn|PlayerName} {twenty|ScoreNumber} more
+AddScoreIntent give {maddy|PlayerName} {seventy|ScoreNumber} more points
+AddScoreIntent give {madeline|PlayerName} {fifty|ScoreNumber}
+AddScoreIntent {ten|ScoreNumber} more for {madelyn|PlayerName}
+AddScoreIntent give {madge|PlayerName} {one|ScoreNumber} more
+AddScoreIntent {one hundred|ScoreNumber} for {madie|PlayerName}
+AddScoreIntent give {maggie|PlayerName} {six thousand and one|ScoreNumber}
+AddScoreIntent {five thousand three hundred and ten|ScoreNumber} points for {margaret|PlayerName}
+AddScoreIntent give {maggy|PlayerName} {two|ScoreNumber} more
+AddScoreIntent give {mandy|PlayerName} {seven|ScoreNumber} more points
+AddScoreIntent {three thousand|ScoreNumber} more points for {amanda|PlayerName}
+AddScoreIntent {sixty|ScoreNumber} points for {marge|PlayerName}
+AddScoreIntent give {margie|PlayerName} {nine|ScoreNumber}
+AddScoreIntent give {marjorie|PlayerName} {four thousand five hundred and thirty three|ScoreNumber}
+AddScoreIntent give {margy|PlayerName} {eight hundred and twenty six|ScoreNumber}
+AddScoreIntent give {mark|PlayerName} {eight hundred and twenty six|ScoreNumber} more
+AddScoreIntent {one hundred|ScoreNumber} for {marcus|PlayerName}
+AddScoreIntent give {marty|PlayerName} {ten|ScoreNumber}
+AddScoreIntent {eighty|ScoreNumber} more for {martin|PlayerName}
+AddScoreIntent give {marv|PlayerName} {thirty|ScoreNumber} points
+AddScoreIntent give {marvin|PlayerName} {twelve|ScoreNumber} more points
+AddScoreIntent {fourteen|ScoreNumber} more for {matt|PlayerName}
+AddScoreIntent {eighty|ScoreNumber} points for {mathew|PlayerName}
+AddScoreIntent give {matthew|PlayerName} {fourteen|ScoreNumber} more
+AddScoreIntent {twenty one|ScoreNumber} for {maud|PlayerName}
+AddScoreIntent {four|ScoreNumber} more points for {mel|PlayerName}
+AddScoreIntent {fourteen|ScoreNumber} points for {merv|PlayerName}
+AddScoreIntent {one hundred|ScoreNumber} more points for {mervin|PlayerName}
+AddScoreIntent {fifteen|ScoreNumber} more for {mick|PlayerName}
+AddScoreIntent give {michael|PlayerName} {fifteen|ScoreNumber} more
+AddScoreIntent {fifty|ScoreNumber} for {mickey|PlayerName}
+AddScoreIntent {twelve|ScoreNumber} more for {mike|PlayerName}
+AddScoreIntent give {mindy|PlayerName} {three thousand|ScoreNumber} more
+AddScoreIntent {eighty five|ScoreNumber} more points for {minnie|PlayerName}
+AddScoreIntent {four thousand five hundred and thirty three|ScoreNumber} points for {wilhelmina|PlayerName}
+AddScoreIntent give {missy|PlayerName} {five thousand three hundred and ten|ScoreNumber} more points
+AddScoreIntent {fourty|ScoreNumber} more for {mitch|PlayerName}
+AddScoreIntent give {mitchell|PlayerName} {three thousand|ScoreNumber}
+AddScoreIntent {one|ScoreNumber} point for {monty|PlayerName}
+AddScoreIntent {three|ScoreNumber} more points for {lamont|PlayerName}
+AddScoreIntent give {nat|PlayerName} {fifteen|ScoreNumber}
+AddScoreIntent give {nathaniel|PlayerName} {eight|ScoreNumber}
+AddScoreIntent {five thousand three hundred and ten|ScoreNumber} more points for {nate|PlayerName}
+AddScoreIntent {fifteen|ScoreNumber} points for {nathan|PlayerName}
+AddScoreIntent {seventy|ScoreNumber} points for {neil|PlayerName}
+AddScoreIntent {ten|ScoreNumber} more points for {cornelius|PlayerName}
+AddScoreIntent give {newt|PlayerName} {thirty|ScoreNumber} more points
+AddScoreIntent {one|ScoreNumber} more for {newton|PlayerName}
+AddScoreIntent {sixty six|ScoreNumber} points for {nick|PlayerName}
+AddScoreIntent {thirty|ScoreNumber} points for {nicholas|PlayerName}
+AddScoreIntent give {nickie|PlayerName} {sixty|ScoreNumber} points
+AddScoreIntent {seven|ScoreNumber} more points for {nora|PlayerName}
+AddScoreIntent give {lenora|PlayerName} {eighty five|ScoreNumber} more
+AddScoreIntent give {obie|PlayerName} {four thousand five hundred and thirty three|ScoreNumber} points
+AddScoreIntent {eighty|ScoreNumber} for {obediah|PlayerName}
+AddScoreIntent give {ollie|PlayerName} {five thousand three hundred and ten|ScoreNumber} more
+AddScoreIntent give {oliver|PlayerName} {sixteen|ScoreNumber}
+AddScoreIntent give {ozzy|PlayerName} {eighty|ScoreNumber} more
+AddScoreIntent give {oswald|PlayerName} {four|ScoreNumber} points
+AddScoreIntent give {pat|PlayerName} {sixty six|ScoreNumber} more points
+AddScoreIntent give {patricia|PlayerName} {fourty|ScoreNumber} more points
+AddScoreIntent {seven|ScoreNumber} more points for {patrick|PlayerName}
+AddScoreIntent give {patsy|PlayerName} {eight|ScoreNumber} more
+AddScoreIntent give {patty|PlayerName} {fifty|ScoreNumber} more
+AddScoreIntent {seven hundred and one|ScoreNumber} for {peggy|PlayerName}
+AddScoreIntent {thirty|ScoreNumber} points for {penny|PlayerName}
+AddScoreIntent give {penelope|PlayerName} {thirty|ScoreNumber} points
+AddScoreIntent {one thousand|ScoreNumber} more points for {pete|PlayerName}
+AddScoreIntent {three thousand|ScoreNumber} for {peter|PlayerName}
+AddScoreIntent give {phil|PlayerName} {one|ScoreNumber} more point
+AddScoreIntent {thirteen|ScoreNumber} more points for {philip|PlayerName}
+AddScoreIntent give {phillip|PlayerName} {two hundred|ScoreNumber} points
+AddScoreIntent give {polly|PlayerName} {nine|ScoreNumber} more
+AddScoreIntent {six thousand and one|ScoreNumber} points for {paulina|PlayerName}
+AddScoreIntent give {prissy|PlayerName} {seventy two|ScoreNumber} points
+AddScoreIntent give {priscilla|PlayerName} {eighty|ScoreNumber} points
+AddScoreIntent give {prudy|PlayerName} {four thousand five hundred and thirty three|ScoreNumber}
+AddScoreIntent give {prudence|PlayerName} {eighty five|ScoreNumber} more
+AddScoreIntent {sixteen|ScoreNumber} points for {randy|PlayerName}
+AddScoreIntent give {randolph|PlayerName} {five thousand three hundred and ten|ScoreNumber} more
+AddScoreIntent give {ray|PlayerName} {eight hundred|ScoreNumber} points
+AddScoreIntent give {raymond|PlayerName} {eight hundred and twenty six|ScoreNumber} more points
+AddScoreIntent give {reba|PlayerName} {four|ScoreNumber} points
+AddScoreIntent give {reggie|PlayerName} {seven hundred and one|ScoreNumber} more points
+AddScoreIntent {fifty|ScoreNumber} more points for {reginald|PlayerName}
+AddScoreIntent give {rena|PlayerName} {eight|ScoreNumber} more points
+AddScoreIntent {five|ScoreNumber} points for {irene|PlayerName}
+AddScoreIntent give {rich|PlayerName} {seventy|ScoreNumber} more
+AddScoreIntent {three|ScoreNumber} points for {aldrich|PlayerName}
+AddScoreIntent give {richie|PlayerName} {six|ScoreNumber} points
+AddScoreIntent {seventy|ScoreNumber} for {rick|PlayerName}
+AddScoreIntent {seven|ScoreNumber} points for {derick|PlayerName}
+AddScoreIntent give {ricardo|PlayerName} {seventy|ScoreNumber} more
+AddScoreIntent give {ricky|PlayerName} {sixteen|ScoreNumber} points
+AddScoreIntent give {rob|PlayerName} {seven hundred and one|ScoreNumber} more points
+AddScoreIntent give {roberto|PlayerName} {twenty|ScoreNumber} points
+AddScoreIntent give {robby|PlayerName} {nine|ScoreNumber} points
+AddScoreIntent {five thousand three hundred and ten|ScoreNumber} more points for {rod|PlayerName}
+AddScoreIntent {thirty|ScoreNumber} more for {ron|PlayerName}
+AddScoreIntent give {aaron|PlayerName} {seven|ScoreNumber}
+AddScoreIntent {eight|ScoreNumber} more for {ronald|PlayerName}
+AddScoreIntent {one|ScoreNumber} more point for {veronica|PlayerName}
+AddScoreIntent {one hundred|ScoreNumber} points for {ronnie|PlayerName}
+AddScoreIntent give {ronny|PlayerName} {one hundred|ScoreNumber} more points
+AddScoreIntent {seventy|ScoreNumber} more points for {rose|PlayerName}
+AddScoreIntent {seventy|ScoreNumber} for {rosalyn|PlayerName}
+AddScoreIntent give {roseann|PlayerName} {eighty five|ScoreNumber} points
+AddScoreIntent give {roseanna|PlayerName} {five thousand three hundred and ten|ScoreNumber} more points
+AddScoreIntent give {roz|PlayerName} {fourteen|ScoreNumber} more points
+AddScoreIntent {sixteen|ScoreNumber} for {rube|PlayerName}
+AddScoreIntent give {reuben|PlayerName} {sixteen|ScoreNumber} more
+AddScoreIntent {eighty|ScoreNumber} points for {rudy|PlayerName}
+AddScoreIntent give {rudolph|PlayerName} {eleven|ScoreNumber}
+AddScoreIntent give {russ|PlayerName} {twenty|ScoreNumber} points
+AddScoreIntent give {russell|PlayerName} {four|ScoreNumber} more points
+AddScoreIntent {ten|ScoreNumber} points for {rusty|PlayerName}
+AddScoreIntent give {sal|PlayerName} {fourty|ScoreNumber} more
+AddScoreIntent {one|ScoreNumber} more point for {solomon|PlayerName}
+AddScoreIntent {thirteen|ScoreNumber} more for {sam|PlayerName}
+AddScoreIntent {seven|ScoreNumber} more for {samuel|PlayerName}
+AddScoreIntent {three|ScoreNumber} for {sammy|PlayerName}
+AddScoreIntent give {sandra|PlayerName} {twenty one|ScoreNumber} more points
+AddScoreIntent {six|ScoreNumber} points for {sandy|PlayerName}
+AddScoreIntent give {scott|PlayerName} {six thousand and one|ScoreNumber} more
+AddScoreIntent {eight hundred and twenty six|ScoreNumber} more points for {prescott|PlayerName}
+AddScoreIntent {one thousand|ScoreNumber} points for {scotty|PlayerName}
+AddScoreIntent {two hundred|ScoreNumber} points for {shelly|PlayerName}
+AddScoreIntent {seven|ScoreNumber} more points for {michelle|PlayerName}
+AddScoreIntent give {rachel|PlayerName} {six|ScoreNumber}
+AddScoreIntent {sixteen|ScoreNumber} points for {shelton|PlayerName}
+AddScoreIntent {sixteen|ScoreNumber} more points for {sherry|PlayerName}
+AddScoreIntent {one thousand|ScoreNumber} for {shirley|PlayerName}
+AddScoreIntent {three|ScoreNumber} more points for {sly|PlayerName}
+AddScoreIntent {twenty|ScoreNumber} more for {sylvester|PlayerName}
+AddScoreIntent {seventy|ScoreNumber} more for {stella|PlayerName}
+AddScoreIntent give {estella|PlayerName} {four|ScoreNumber} points
+AddScoreIntent give {steph|PlayerName} {ten|ScoreNumber} more points
+AddScoreIntent give {stephen|PlayerName} {twenty one|ScoreNumber} points
+AddScoreIntent {eight|ScoreNumber} more points for {steven|PlayerName}
+AddScoreIntent {sixteen|ScoreNumber} more points for {steve|PlayerName}
+AddScoreIntent {ten|ScoreNumber} more for {sue|PlayerName}
+AddScoreIntent give {susan|PlayerName} {two hundred|ScoreNumber} more
+AddScoreIntent give {susannah|PlayerName} {eight hundred and twenty six|ScoreNumber} points
+AddScoreIntent {three thousand|ScoreNumber} points for {sully|PlayerName}
+AddScoreIntent give {sullivan|PlayerName} {two|ScoreNumber}
+AddScoreIntent give {susie|PlayerName} {sixteen|ScoreNumber}
+AddScoreIntent give {tabby|PlayerName} {four thousand five hundred and thirty three|ScoreNumber} more
+AddScoreIntent {two|ScoreNumber} for {tabitha|PlayerName}
+AddScoreIntent {twelve|ScoreNumber} points for {ted|PlayerName}
+AddScoreIntent {eighty five|ScoreNumber} points for {theodore|PlayerName}
+AddScoreIntent {four thousand five hundred and thirty three|ScoreNumber} for {teddy|PlayerName}
+AddScoreIntent {eight hundred|ScoreNumber} more points for {terry|PlayerName}
+AddScoreIntent {six|ScoreNumber} points for {terence|PlayerName}
+AddScoreIntent give {tess|PlayerName} {one hundred|ScoreNumber}
+AddScoreIntent give {teresa|PlayerName} {eleven|ScoreNumber} more
+AddScoreIntent {four|ScoreNumber} points for {theresa|PlayerName}
+AddScoreIntent give {tessa|PlayerName} {sixty|ScoreNumber}
+AddScoreIntent {one hundred|ScoreNumber} points for {tessie|PlayerName}
+AddScoreIntent give {thad|PlayerName} {one thousand|ScoreNumber} more
+AddScoreIntent {ten|ScoreNumber} points for {thaddeus|PlayerName}
+AddScoreIntent {five|ScoreNumber} for {theo|PlayerName}
+AddScoreIntent give {thom|PlayerName} {one thousand|ScoreNumber} points
+AddScoreIntent give {thomas|PlayerName} {two|ScoreNumber} more points
+AddScoreIntent give {tilla|PlayerName} {twelve|ScoreNumber} more
+AddScoreIntent give {matilda|PlayerName} {one hundred|ScoreNumber} points
+AddScoreIntent {two hundred|ScoreNumber} points for {tim|PlayerName}
+AddScoreIntent give {timothy|PlayerName} {four thousand five hundred and thirty three|ScoreNumber}
+AddScoreIntent {thirteen|ScoreNumber} for {timmy|PlayerName}
+AddScoreIntent give {tina|PlayerName} {eight hundred and twenty six|ScoreNumber}
+AddScoreIntent {twenty one|ScoreNumber} points for {martina|PlayerName}
+AddScoreIntent {seventy|ScoreNumber} more for {tish|PlayerName}
+AddScoreIntent give {latisha|PlayerName} {eighty|ScoreNumber} more
+AddScoreIntent {four|ScoreNumber} more points for {tisha|PlayerName}
+AddScoreIntent {twelve|ScoreNumber} more for {toby|PlayerName}
+AddScoreIntent {sixty six|ScoreNumber} more for {tobias|PlayerName}
+AddScoreIntent give {tom|PlayerName} {fifty|ScoreNumber} points
+AddScoreIntent give {tommy|PlayerName} {one hundred|ScoreNumber} more
+AddScoreIntent give {tony|PlayerName} {three|ScoreNumber}
+AddScoreIntent give {anthony|PlayerName} {fifteen|ScoreNumber} points
+AddScoreIntent {twenty|ScoreNumber} points for {tori|PlayerName}
+AddScoreIntent {eight hundred and twenty six|ScoreNumber} more for {victoria|PlayerName}
+AddScoreIntent give {torie|PlayerName} {sixty six|ScoreNumber} more
+AddScoreIntent {fifty|ScoreNumber} more points for {torri|PlayerName}
+AddScoreIntent give {torrie|PlayerName} {five thousand three hundred and ten|ScoreNumber} more
+AddScoreIntent {fourty|ScoreNumber} more for {tory|PlayerName}
+AddScoreIntent {eight hundred and twenty six|ScoreNumber} more for {trisha|PlayerName}
+AddScoreIntent give {trixie|PlayerName} {seven hundred and one|ScoreNumber} more points
+AddScoreIntent give {trudy|PlayerName} {thirteen|ScoreNumber} points
+AddScoreIntent give {val|PlayerName} {fourty|ScoreNumber} points
+AddScoreIntent {four|ScoreNumber} more points for {valeri|PlayerName}
+AddScoreIntent give {valerie|PlayerName} {ten|ScoreNumber} points
+AddScoreIntent give {van|PlayerName} {five thousand three hundred and ten|ScoreNumber} points
+AddScoreIntent give {vanna|PlayerName} {four thousand five hundred and thirty three|ScoreNumber} more
+AddScoreIntent {seventy two|ScoreNumber} more for {vanessa|PlayerName}
+AddScoreIntent {five thousand three hundred and ten|ScoreNumber} more for {vic|PlayerName}
+AddScoreIntent give {victor|PlayerName} {eight hundred|ScoreNumber} more points
+AddScoreIntent give {vincent|PlayerName} {sixty six|ScoreNumber} more
+AddScoreIntent {eight hundred and twenty six|ScoreNumber} points for {vincenzon|PlayerName}
+AddScoreIntent give {vicki|PlayerName} {twenty|ScoreNumber} more
+AddScoreIntent give {vickie|PlayerName} {fourty|ScoreNumber}
+AddScoreIntent {one hundred|ScoreNumber} points for {vicky|PlayerName}
+AddScoreIntent give {vin|PlayerName} {eleven|ScoreNumber} more
+AddScoreIntent give {vincenzo|PlayerName} {three thousand|ScoreNumber} more points
+AddScoreIntent give {vince|PlayerName} {five|ScoreNumber} more
+AddScoreIntent {eight hundred|ScoreNumber} more for {vinson|PlayerName}
+AddScoreIntent give {vinnie|PlayerName} {ten|ScoreNumber} more
+AddScoreIntent {eleven|ScoreNumber} points for {waldo|PlayerName}
+AddScoreIntent give {wendy|PlayerName} {eight hundred and twenty six|ScoreNumber} points
+AddScoreIntent {four|ScoreNumber} more for {wilber|PlayerName}
+AddScoreIntent give {will|PlayerName} {six thousand and one|ScoreNumber} points
+AddScoreIntent {eight hundred|ScoreNumber} more for {wilbur|PlayerName}
+AddScoreIntent {one thousand|ScoreNumber} more points for {wilson|PlayerName}
+AddScoreIntent give {willie|PlayerName} {eight hundred and twenty six|ScoreNumber}
+AddScoreIntent {three|ScoreNumber} for {wilma|PlayerName}
+AddScoreIntent {fourty|ScoreNumber} points for {winnie|PlayerName}
+AddScoreIntent {fifty|ScoreNumber} points for {winny|PlayerName}
+AddScoreIntent give {woody|PlayerName} {sixty six|ScoreNumber}
+AddScoreIntent give {elwood|PlayerName} {six thousand and one|ScoreNumber} points
+AddScoreIntent give {zach|PlayerName} {ten|ScoreNumber} more
+AddScoreIntent {twenty one|ScoreNumber} more for {zachariah|PlayerName}
+AddScoreIntent give {ashley|PlayerName} {three|ScoreNumber} points
+AddScoreIntent {four|ScoreNumber} more for {sarah|PlayerName}
+AddScoreIntent give {stephanie|PlayerName} {twenty|ScoreNumber} more points
+AddScoreIntent {six thousand and one|ScoreNumber} more points for {nicole|PlayerName}
+AddScoreIntent give {heather|PlayerName} {sixty six|ScoreNumber}
+AddScoreIntent {fifteen|ScoreNumber} points for {megan|PlayerName}
+AddScoreIntent give {ryan|PlayerName} {eleven|ScoreNumber} more
+AddScoreIntent {sixty six|ScoreNumber} points for {brandon|PlayerName}
+AddScoreIntent give {jason|PlayerName} {four|ScoreNumber} points
+AddScoreIntent {four thousand five hundred and thirty three|ScoreNumber} for {laura|PlayerName}
+AddScoreIntent give {justin|PlayerName} {three thousand|ScoreNumber}
+AddScoreIntent {twenty|ScoreNumber} more points for {lauren|PlayerName}
+AddScoreIntent {fifteen|ScoreNumber} points for {amber|PlayerName}
+AddScoreIntent {eleven|ScoreNumber} more points for {brittany|PlayerName}
+AddScoreIntent give {brian|PlayerName} {ten|ScoreNumber} more points
+AddScoreIntent {sixty|ScoreNumber} points for {danielle|PlayerName}
+AddScoreIntent {eight|ScoreNumber} for {amy|PlayerName}
+AddScoreIntent {five thousand three hundred and ten|ScoreNumber} points for {eric|PlayerName}
+AddScoreIntent give {crystal|PlayerName} {twenty one|ScoreNumber} points
+AddScoreIntent give {adam|PlayerName} {four|ScoreNumber} more points
+AddScoreIntent {eighty|ScoreNumber} more for {kevin|PlayerName}
+AddScoreIntent {two hundred|ScoreNumber} more for {tiffany|PlayerName}
+AddScoreIntent {ten|ScoreNumber} points for {erin|PlayerName}
+AddScoreIntent give {kyle|PlayerName} {twenty|ScoreNumber} more points
+AddScoreIntent {eighty|ScoreNumber} points for {kelly|PlayerName}
+AddScoreIntent {eighty five|ScoreNumber} more for {samantha|PlayerName}
+AddScoreIntent {three thousand|ScoreNumber} more points for {jeremy|PlayerName}
+AddScoreIntent {seventy|ScoreNumber} points for {sara|PlayerName}
+AddScoreIntent give {angela|PlayerName} {sixty|ScoreNumber} points
+AddScoreIntent give {andrea|PlayerName} {nine|ScoreNumber}
+AddScoreIntent {fourty|ScoreNumber} points for {erica|PlayerName}
+AddScoreIntent give {mary|PlayerName} {twenty|ScoreNumber} more
+AddScoreIntent {nine|ScoreNumber} points for {lindsey|PlayerName}
+AddScoreIntent give {sean|PlayerName} {five|ScoreNumber} points
+AddScoreIntent {sixty|ScoreNumber} more points for {zachary|PlayerName}
+AddScoreIntent give {katie|PlayerName} {nine|ScoreNumber}
+AddScoreIntent give {lindsay|PlayerName} {four|ScoreNumber} more
+AddScoreIntent give {jenn|PlayerName} {two|ScoreNumber} more points
+AddScoreIntent give {brit|PlayerName} {seventy|ScoreNumber} points
+AddScoreIntent give {greg|PlayerName} {twenty one|ScoreNumber} more

@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "GetFirstEventIntent",
+      "slots": [
+        {
+          "name": "day",
+          "type": "DATE"
+        }
+      ]
+    },
+    {
+      "intent": "GetNextEventIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "FinishIntent",
+      "slots": []
+    }
+  ]
+}

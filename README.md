@@ -17,7 +17,7 @@ link below for more details):
 - ScoreKeeper : a skill that can keep score of a game.
 
 ## Usage
-Navigate to the README.txt in each sub directory and follow the instructions for getting the sample up and running.
+Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.
 
 ## Resources
 Here are a few direct links to our documentation:

@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "intent": "AddPlayerIntent",
+      "slots": [
+        {
+          "name": "PlayerName",
+          "type": "LIST_OF_PLAYER_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AddScoreIntent",
+      "slots": [
+        {
+          "name": "PlayerName",
+          "type": "LIST_OF_PLAYER_NAMES"
+        },
+        {
+          "name": "ScoreNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ResetPlayersIntent"
+    },
+    {
+      "intent": "NewGameIntent"
+    },
+    {
+      "intent": "TellScoresIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

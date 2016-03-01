@@ -336,6 +336,10 @@ function onIntent(intentRequest, session, callback) {
         handleAnswerRequest(intent, session, callback);
     } else if ("AnswerOnlyIntent" === intentName) {
         handleAnswerRequest(intent, session, callback);
+    } else if ("AMAZON.YesIntent" === intentName) {
+        handleAnswerRequest(intent, session, callback);
+    } else if ("AMAZON.NoIntent" === intentName) {
+        handleAnswerRequest(intent, session, callback);
     } else if ("AMAZON.StartOverIntent" === intentName) {
         getWelcomeResponse(callback);
     } else if ("AMAZON.RepeatIntent" === intentName) {

@@ -19,7 +19,7 @@
  * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
  */
 var questions = [
-	{
+    {
         "Reindeer have very thick coats, how many hairs per square inch do they have?": [
             "13,000",
             "1,200",
@@ -271,7 +271,7 @@ exports.handler = function (event, context) {
          * Uncomment this if statement and populate with your skill's application ID to
          * prevent someone else from configuring a skill that sends requests to this function.
          */
-		 
+
 //     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.05aecccb3-1461-48fb-a008-822ddrt6b516") {
 //         context.fail("Invalid Application ID");
 //      }
@@ -364,13 +364,13 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 // ------- Skill specific business logic -------
 
-var ANSWER_COUNT = 4,
-    GAME_LENGTH = 5;
+var ANSWER_COUNT = 4;
+var GAME_LENGTH = 5;
+var CARD_TITLE = "Reindeer Games"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        cardTitle = "Reindeer Games",
-        speechOutput = "Reindeer Games. I will ask you " + GAME_LENGTH.toString() 
+        speechOutput = "Reindeer Games. I will ask you " + GAME_LENGTH.toString()
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin.",
         shouldEndSession = false,
 
@@ -399,7 +399,7 @@ function getWelcomeResponse(callback) {
             questions[gameQuestions[currentQuestionIndex]][Object.keys(questions[gameQuestions[currentQuestionIndex]])[0]][0]
     };
     callback(sessionAttributes,
-        buildSpeechletResponse(cardTitle, speechOutput, repromptText, shouldEndSession));
+        buildSpeechletResponse(CARD_TITLE, speechOutput, repromptText, shouldEndSession));
 }
 
 function populateGameQuestions() {
@@ -432,8 +432,7 @@ function populateRoundAnswers(gameQuestions, index, correctAnswer) {
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    var cardTitle = "Reindeer Games",
-        speechOutput = "";
+    var speechOutput = "";
 
     var answerSlot = intent.slots.Answer;
     // If the user provided answer isn't a number > 0 and < 5,
@@ -442,7 +441,7 @@ function handleAnswerRequest(intent, session, callback) {
         || !(parseInt(answerSlot.value) < ANSWER_COUNT+1 && parseInt(answerSlot.value) > 0)) {
         speechOutput = "Your answer must be a number between 1 and 4."
         callback(session.attributes,
-            buildSpeechletResponse(cardTitle, speechOutput, speechOutput, false));
+            buildSpeechletResponse(CARD_TITLE, speechOutput, speechOutput, false));
     }
     else {
         // If the user responded with an answer but there is no game in progress, ask the user
@@ -451,7 +450,7 @@ function handleAnswerRequest(intent, session, callback) {
             speechOutput = "There is no game in progress. To start a new game, say, " +
                 "start game.";
             callback(session.attributes,
-                buildSpeechletResponse(cardTitle, speechOutput, speechOutput, false));
+                buildSpeechletResponse(CARD_TITLE, speechOutput, speechOutput, false));
         }
         else {
             var gameQuestions = session.attributes.questions,
@@ -472,7 +471,7 @@ function handleAnswerRequest(intent, session, callback) {
                 speechOutput = "That answer is " + speechOutputAnalysis + "You got " +
                     currentScore.toString() + " out of " + GAME_LENGTH.toString() + " questions correct. Thank you for playing!";
                 callback(session.attributes,
-                    buildSpeechletResponse(cardTitle, speechOutput, "", true));
+                    buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
             }
             else {
                 currentQuestionIndex += 1;
@@ -499,7 +498,7 @@ function handleAnswerRequest(intent, session, callback) {
                         questions[gameQuestions[currentQuestionIndex]][Object.keys(questions[gameQuestions[currentQuestionIndex]])[0]][0]
                 };
                 callback(sessionAttributes,
-                    buildSpeechletResponse(cardTitle, speechOutput, repromptText, false));
+                    buildSpeechletResponse(CARD_TITLE, speechOutput, repromptText, false));
             }
         }
     }

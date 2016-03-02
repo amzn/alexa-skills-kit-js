@@ -17,6 +17,7 @@
 
 /**
  * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
+ * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
  */
 var questions = [
     {
@@ -24,7 +25,9 @@ var questions = [
             "13,000",
             "1,200",
             "5,000",
-            "700"
+            "700",
+            "1,000",
+            "120,000"
         ]
     },
     {
@@ -431,7 +434,6 @@ function populateGameQuestions() {
 
     // Pick GAME_LENGTH random questions from the list to ask the user, make sure there are no repeats.
     for (var j = 0; j < GAME_LENGTH; j++){
-
         var rand = Math.floor(Math.random() * index);
         index -= 1;
 
@@ -444,18 +446,37 @@ function populateGameQuestions() {
     return gameQuestions;
 }
 
-function populateRoundAnswers(gameQuestions, index, correctAnswer) {
+function populateRoundAnswers(gameQuestionIndexes, correctAnswerIndex, correctAnswerTargetLocation) {
     // Get the answers for a given question, and place the correct answer at the spot marked by the
-    // correctAnswer variable
+    // correctAnswerTargetLocation variable. Note that you can have as many answers as you want but
+    // only ANSWER_COUNT will be selected.
     var answers = [],
-        answersCopy = questions[gameQuestions[index]][Object.keys(questions[gameQuestions[index]])[0]],
+        answersCopy = questions[gameQuestionIndexes[correctAnswerIndex]][Object.keys(questions[gameQuestionIndexes[correctAnswerIndex]])[0]],
         temp, i;
+
+    var index = answersCopy.length;
+
+    if (index < ANSWER_COUNT){
+        throw "Not enough answers for question.";
+    }
+
+    // Shuffle the answers, excluding the first element.
+    for (var j = 1; j < answersCopy.length; j++){
+        var rand = Math.floor(Math.random() * (index - 1)) + 1;
+        index -= 1;
+
+        var temp = answersCopy[index];
+        answersCopy[index] = answersCopy[rand];
+        answersCopy[rand] = temp;
+    }
+
+    // Swap the correct answer into the target location
     for (i = 0; i < ANSWER_COUNT; i++) {
         answers[i] = answersCopy[i];
     }
     temp = answers[0];
-    answers[0] = answers[correctAnswer];
-    answers[correctAnswer] = temp;
+    answers[0] = answers[correctAnswerTargetLocation];
+    answers[correctAnswerTargetLocation] = temp;
     return answers;
 }
 

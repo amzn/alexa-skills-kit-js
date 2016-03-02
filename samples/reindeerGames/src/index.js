@@ -417,16 +417,30 @@ function getWelcomeResponse(callback) {
 }
 
 function populateGameQuestions() {
-    var gameQuestions = [],
-        randomNum;
+    var gameQuestions = [];
+    var indexList = [];
+    var index = questions.length;
 
-    // Pick 5 random questions from the list to ask the user, make sure there are no repeats
-    while (gameQuestions.length != GAME_LENGTH) {
-        randomNum = Math.floor(Math.random() * (questions.length - 1));
-        if (gameQuestions.indexOf(randomNum) == -1) {
-            gameQuestions.push(randomNum);
-        }
+    if (GAME_LENGTH > index){
+        throw "Invalid Game Length.";
     }
+
+    for (var i = 0; i < questions.length; i++){
+        indexList.push(i);
+    }
+
+    // Pick GAME_LENGTH random questions from the list to ask the user, make sure there are no repeats.
+    for (var j = 0; j < GAME_LENGTH; j++){
+
+        var rand = Math.floor(Math.random() * index);
+        index -= 1;
+
+        var temp = indexList[index];
+        indexList[index] = indexList[rand];
+        indexList[rand] = temp;
+        gameQuestions.push(indexList[index]);
+    }
+
     return gameQuestions;
 }
 

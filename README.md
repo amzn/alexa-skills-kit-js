@@ -9,6 +9,7 @@ The following samples are included (ordered by complexity, see the Using Alexa S
 link below for more details):
 
 - SpaceGeek : a simple skill that responds to the user with a space fact.
+- ReindeerGames: a simple skill that plays trivia quiz questions
 - MinecraftHelper : a simple skill that responds to the user's recipe queries with formulas.
 - WiseGuy : a skill that tells knock knock jokes.
 - HistoryBuff : a skill that gives historical information that happened on a user provided day.

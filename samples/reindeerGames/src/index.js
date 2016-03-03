@@ -349,6 +349,8 @@ function onIntent(intentRequest, session, callback) {
         handleAnswerRequest(intent, session, callback);
     } else if ("AnswerOnlyIntent" === intentName) {
         handleAnswerRequest(intent, session, callback);
+    } else if ("DontKnowIntent" === intentName) {
+        handleAnswerRequest(intent, session, callback);
     } else if ("AMAZON.YesIntent" === intentName) {
         handleAnswerRequest(intent, session, callback);
     } else if ("AMAZON.NoIntent" === intentName) {
@@ -485,6 +487,7 @@ function handleAnswerRequest(intent, session, callback) {
     var sessionAttributes = {};
     var gameInProgress = session.attributes && session.attributes.questions;
     var answerSlotValid = isAnswerSlotValid(intent);
+    var userGaveUp = intent.name === "DontKnowIntent";
 
     if (!gameInProgress) {
         // If the user responded with an answer but there is no game in progress, ask the user
@@ -493,15 +496,14 @@ function handleAnswerRequest(intent, session, callback) {
         speechOutput = "There is no game in progress. Do you want to start a new game? ";
         callback(sessionAttributes,
             buildSpeechletResponse(CARD_TITLE, speechOutput, speechOutput, false));
-    } else if (!answerSlotValid) {
+    } else if (!answerSlotValid && !userGaveUp) {
         // If the user provided answer isn't a number > 0 and < ANSWER_COUNT,
         // return an error message to the user. Remember to guide the user into providing correct values.
         var reprompt = session.attributes.speechOutput;
         var speechOutput = "Your answer must be a number between 1 and " + ANSWER_COUNT + ". " + reprompt;
         callback(session.attributes,
             buildSpeechletResponse(CARD_TITLE, speechOutput, reprompt, false));
-    }
-    else {
+    } else {
         var gameQuestions = session.attributes.questions,
             correctAnswerIndex = parseInt(session.attributes.correctAnswerIndex),
             currentScore = parseInt(session.attributes.score),
@@ -509,18 +511,21 @@ function handleAnswerRequest(intent, session, callback) {
             correctAnswerText = session.attributes.correctAnswerText;
 
         var speechOutputAnalysis = "";
-        var answerSlot = intent.slots.Answer;
 
-        if (parseInt(answerSlot.value) == correctAnswerIndex) {
+        if (answerSlotValid && parseInt(intent.slots.Answer.value) == correctAnswerIndex) {
             currentScore++;
             speechOutputAnalysis = "correct. ";
         } else {
-            speechOutputAnalysis = "wrong. The correct answer is " + correctAnswerIndex + ": " + correctAnswerText + ". ";
+            if (!userGaveUp) {
+                speechOutputAnalysis = "wrong. "
+            }
+            speechOutputAnalysis += "The correct answer is " + correctAnswerIndex + ": " + correctAnswerText + ". ";
         }
         // if currentQuestionIndex is 4, we've reached 5 questions (zero-indexed) and can exit the game session
         if (currentQuestionIndex == GAME_LENGTH - 1) {
-            speechOutput = "That answer is " + speechOutputAnalysis + "You got " +
-                currentScore.toString() + " out of " + GAME_LENGTH.toString() + " questions correct. Thank you for playing!";
+            speechOutput = userGaveUp ? "" : "That answer is ";
+            speechOutput += speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
+                + GAME_LENGTH.toString() + " questions correct. Thank you for playing!";
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
         } else {
@@ -535,7 +540,8 @@ function handleAnswerRequest(intent, session, callback) {
             for (var i = 0; i < ANSWER_COUNT; i++) {
                 repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
             }
-            speechOutput += "That answer is " + speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
+            speechOutput += userGaveUp ? "" : "That answer is ";
+            speechOutput += speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
 
             sessionAttributes = {
                 "speechOutput": repromptText,

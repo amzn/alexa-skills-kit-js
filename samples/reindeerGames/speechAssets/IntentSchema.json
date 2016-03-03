@@ -19,6 +19,9 @@
       ]
     },
     {
+      "intent": "DontKnowIntent"
+    },
+    {
       "intent": "AMAZON.StartOverIntent"
     },
     {

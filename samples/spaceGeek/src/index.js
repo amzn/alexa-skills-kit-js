@@ -21,12 +21,12 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * Array containing space facts.
  */
-var SPACE_FACTS = [
+var FACTS = [
     "A year on Mercury is just 88 days long.",
     "Despite being farther from the Sun, Venus experiences higher temperatures than Mercury.",
     "Venus rotates counter-clockwise, possibly because of a collision in the past with an asteroid.",
@@ -53,41 +53,39 @@ var AlexaSkill = require('./AlexaSkill');
  *
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript#Inheritance
  */
-var SpaceGeek = function () {
+var Fact = function () {
     AlexaSkill.call(this, APP_ID);
 };
 
 // Extend AlexaSkill
-SpaceGeek.prototype = Object.create(AlexaSkill.prototype);
-SpaceGeek.prototype.constructor = SpaceGeek;
+Fact.prototype = Object.create(AlexaSkill.prototype);
+Fact.prototype.constructor = Fact;
 
-SpaceGeek.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest, session) {
-    console.log("SpaceGeek onSessionStarted requestId: " + sessionStartedRequest.requestId
-        + ", sessionId: " + session.sessionId);
+Fact.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest, session) {
+    //console.log("onSessionStarted requestId: " + sessionStartedRequest.requestId + ", sessionId: " + session.sessionId);
     // any initialization logic goes here
 };
 
-SpaceGeek.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
-    console.log("SpaceGeek onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
+Fact.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
+    //console.log("onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
     handleNewFactRequest(response);
 };
 
 /**
  * Overridden to show that a subclass can override this function to teardown session state.
  */
-SpaceGeek.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
-    console.log("SpaceGeek onSessionEnded requestId: " + sessionEndedRequest.requestId
-        + ", sessionId: " + session.sessionId);
+Fact.prototype.eventHandlers.onSessionEnded = function (sessionEndedRequest, session) {
+    //console.log("onSessionEnded requestId: " + sessionEndedRequest.requestId + ", sessionId: " + session.sessionId);
     // any cleanup logic goes here
 };
 
-SpaceGeek.prototype.intentHandlers = {
+Fact.prototype.intentHandlers = {
     "GetNewFactIntent": function (intent, session, response) {
         handleNewFactRequest(response);
     },
 
     "AMAZON.HelpIntent": function (intent, session, response) {
-        response.ask("You can ask Space Geek tell me a space fact, or, you can say exit... What can I help you with?", "What can I help you with?");
+        response.ask("You can say tell me a space fact, or, you can say exit... What can I help you with?", "What can I help you with?");
     },
 
     "AMAZON.StopIntent": function (intent, session, response) {
@@ -106,19 +104,19 @@ SpaceGeek.prototype.intentHandlers = {
  */
 function handleNewFactRequest(response) {
     // Get a random space fact from the space facts list
-    var factIndex = Math.floor(Math.random() * SPACE_FACTS.length);
-    var fact = SPACE_FACTS[factIndex];
+    var factIndex = Math.floor(Math.random() * FACTS.length);
+    var randomFact = FACTS[factIndex];
 
     // Create speech output
-    var speechOutput = "Here's your space fact: " + fact;
-
-    response.tellWithCard(speechOutput, "SpaceGeek", speechOutput);
+    var speechOutput = "Here's your fact: " + randomFact;
+    var cardTitle = "Your Fact";
+    response.tellWithCard(speechOutput, cardTitle, speechOutput);
 }
 
 // Create the handler that responds to the Alexa Request.
 exports.handler = function (event, context) {
     // Create an instance of the SpaceGeek skill.
-    var spaceGeek = new SpaceGeek();
-    spaceGeek.execute(event, context);
+    var fact = new Fact();
+    fact.execute(event, context);
 };
 

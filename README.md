@@ -8,14 +8,14 @@ The included samples represent how to use nodejs AWS Lambda functions as Alexa S
 The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
 link below for more details):
 
-- SpaceGeek : a simple skill that responds to the user with a space fact.
-- ReindeerGames: a simple skill that plays trivia quiz questions
-- MinecraftHelper : a simple skill that responds to the user's recipe queries with formulas.
-- WiseGuy : a skill that tells knock knock jokes.
-- HistoryBuff : a skill that gives historical information that happened on a user provided day.
-- Savvy Consumer : a skill that looks up a category on Amazon and returns the best selling products.
-- TidePooler : a skill that looks up tide information for various cities.
-- ScoreKeeper : a skill that can keep score of a game.
+- [SpaceGeek](samples/spaceGeek) : a simple skill that responds to the user with a space fact.
+- [ReindeerGames](samples/reindeerGames): a simple skill that plays trivia quiz questions
+- [MinecraftHelper](samples/minecraftHelper) : a simple skill that responds to the user's recipe queries with formulas.
+- [WiseGuy](samples/wiseGuy) : a skill that tells knock knock jokes.
+- [HistoryBuff](samples/historyBuff) : a skill that gives historical information that happened on a user provided day.
+- [Savvy Consumer](samples/savvyConsumer) : a skill that looks up a category on Amazon and returns the best selling products.
+- [TidePooler](samples/tidePooler) : a skill that looks up tide information for various cities.
+- [ScoreKeeper](samples/scoreKeeper) : a skill that can keep score of a game.
 
 ## Usage
 Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.

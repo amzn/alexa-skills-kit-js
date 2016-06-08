@@ -46,7 +46,7 @@ Example user interactions:
 ### One-shot model:
     User:  "Alexa, ask History Buff what happened on August thirtieth."
     Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
-    User: "No."
+    User:  "No."
     Alexa: "Good bye!"
 
 ### Dialog model:
@@ -56,6 +56,6 @@ Example user interactions:
     Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
     User:  "Yes."
     Alexa: "In 1995, Bosnian war [...] . Wanna go deeper in history?"
-    User: "No."
+    User:  "No."
     Alexa: "Good bye!"
 

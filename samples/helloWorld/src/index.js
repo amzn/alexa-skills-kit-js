@@ -14,7 +14,7 @@
  *
  * Examples:
  * One-shot model:
- *  User: "Alexa, tell Greeter to say hello"
+ *  User: "Alexa, tell Hello World to say hello"
  *  Alexa: "Hello World!"
  */
 
@@ -64,7 +64,7 @@ HelloWorld.prototype.eventHandlers.onSessionEnded = function (sessionEndedReques
 HelloWorld.prototype.intentHandlers = {
     // register custom intent handlers
     "HelloWorldIntent": function (intent, session, response) {
-        response.tellWithCard("Hello World!", "Greeter", "Hello World!");
+        response.tellWithCard("Hello World!", "Hello World", "Hello World!");
     },
     "AMAZON.HelpIntent": function (intent, session, response) {
         response.ask("You can say hello to me!", "You can say hello to me!");

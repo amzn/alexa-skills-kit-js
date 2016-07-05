@@ -1,4 +1,4 @@
-#Sample AWS Lambda function for Alexa
+# Sample AWS Lambda function for Alexa
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
 
 ## Concepts
@@ -44,18 +44,18 @@ To run this example skill you need to do two things. The first is to deploy the 
 Example user interactions:
 
 ### One-shot model:
-  User:  "Alexa, ask History Buff what happened on August thirtieth."
-  Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
-  User: "No."
-  Alexa: "Good bye!"
+    User:  "Alexa, ask History Buff what happened on August thirtieth."
+    Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
+    User:  "No."
+    Alexa: "Good bye!"
 
 ### Dialog model:
-  User:  "Alexa, open History Buff"
-  Alexa: "History Buff. What day do you want events for?"
-  User:  "August thirtieth."
-  Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
-  User:  "Yes."
-  Alexa: "In 1995, Bosnian war [...] . Wanna go deeper in history?"
-  User: "No."
-  Alexa: "Good bye!"
+    User:  "Alexa, open History Buff"
+    Alexa: "History Buff. What day do you want events for?"
+    User:  "August thirtieth."
+    Alexa: "For August thirtieth, in 2003, [...] . Wanna go deeper in history?"
+    User:  "Yes."
+    Alexa: "In 1995, Bosnian war [...] . Wanna go deeper in history?"
+    User:  "No."
+    Alexa: "Good bye!"
 

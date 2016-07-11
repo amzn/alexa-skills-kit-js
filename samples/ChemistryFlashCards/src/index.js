@@ -244,7 +244,11 @@ function onIntent(intentRequest, session, callback) {
     } else if ("AMAZON.RepeatIntent" === intentName) {
         handleRepeatRequest(intent, session, callback);
     } else if ("AMAZON.HelpIntent" === intentName) {
-        handleGetHelpRequest(intent, session, callback);
+        if (!session.attributes) {
+            getWelcomeResponse(callback);
+        } else { 
+            handleGetHelpRequest(intent, session, callback);
+        }
     } else if ("AMAZON.StopIntent" === intentName) {
         handleFinishSessionRequest(intent, session, callback);
     } else if ("AMAZON.CancelIntent" === intentName) {

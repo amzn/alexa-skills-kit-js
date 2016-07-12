@@ -16,6 +16,7 @@ link below for more details):
 - [Savvy Consumer](samples/savvyConsumer) : a skill that looks up a category on Amazon and returns the best selling products.
 - [TidePooler](samples/tidePooler) : a skill that looks up tide information for various cities.
 - [ScoreKeeper](samples/scoreKeeper) : a skill that can keep score of a game.
+- [ChemistryFlashCards](samples/ChemistryFlashCards) : A skill that quizzes you on chemistry with flash cards.
 
 ## Usage
 Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.

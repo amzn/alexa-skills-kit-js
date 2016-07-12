@@ -144,7 +144,7 @@ HistoryBuffSkill.prototype.intentHandlers = {
 function getWelcomeResponse(response) {
     // If we wanted to initialize the session to have some attributes we could add those here.
     var cardTitle = "This Day in History";
-    var repromptText = "With History Buff, you can get historical events for any day of the year.  For example, you could say today, or August thirtieth. Now, which day do you want?";
+    var repromptText = "With History Buff, you can get historical events for any day of the year. For example, you could say today, or August thirtieth. Now, which day do you want?";
     var speechText = "<p>History buff.</p> <p>What day do you want events for?</p>";
     var cardOutput = "History Buff. What day do you want events for?";
     // If the user either does not reply to the welcome message or says something that is not
@@ -166,7 +166,7 @@ function getWelcomeResponse(response) {
  */
 function handleFirstEventRequest(intent, session, response) {
     var daySlot = intent.slots.day;
-    var repromptText = "With History Buff, you can get historical events for any day of the year.  For example, you could say today, or August thirtieth. Now, which day do you want?";
+    var repromptText = "With History Buff, you can get historical events for any day of the year. For example, you could say today, or August thirtieth. Now, which day do you want?";
     var monthNames = ["January", "February", "March", "April", "May", "June",
                       "July", "August", "September", "October", "November", "December"
     ];
@@ -202,7 +202,7 @@ function handleFirstEventRequest(intent, session, response) {
                 cardContent = cardContent + events[i] + " ";
                 speechText = "<p>" + speechText + events[i] + "</p> ";
             }
-            speechText = speechText + " <p>Wanna go deeper in history?</p>";
+            speechText = speechText + "<p>Wanna go deeper in history?</p>";
             var speechOutput = {
                 speech: "<speak>" + prefixContent + speechText + "</speak>",
                 type: AlexaSkill.speechOutputType.SSML
@@ -228,7 +228,7 @@ function handleNextEventRequest(intent, session, response) {
         repromptText = "Do you want to know more about what happened on this date?",
         i;
     if (!result) {
-        speechText = "With History Buff, you can get historical events for any day of the year.  For example, you could say today, or August thirtieth. Now, which day do you want?";
+        speechText = "With History Buff, you can get historical events for any day of the year. For example, you could say today, or August thirtieth. Now, which day do you want?";
         cardContent = speechText;
     } else if (sessionAttributes.index >= result.length) {
         speechText = "There are no more events for this date. Try another date by saying <break time = \"0.3s\"/> get events for august thirtieth.";

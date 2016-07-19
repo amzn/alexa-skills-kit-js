@@ -244,18 +244,12 @@ function onIntent(intentRequest, session, callback) {
     } else if ("AMAZON.RepeatIntent" === intentName) {
         handleRepeatRequest(intent, session, callback);
     } else if ("AMAZON.HelpIntent" === intentName) {
-        if (!session.attributes) {
-            getWelcomeResponse(callback);
-        } else { 
             handleGetHelpRequest(intent, session, callback);
-        }
     } else if ("AMAZON.StopIntent" === intentName) {
         handleFinishSessionRequest(intent, session, callback);
     } else if ("AMAZON.CancelIntent" === intentName) {
         handleFinishSessionRequest(intent, session, callback);
-    } else {
-        throw "Invalid intent";
-    }
+    } 
 }
 
 /**
@@ -273,9 +267,11 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 var ANSWER_COUNT = 1;
 var GAME_LENGTH = 5;
-var CARD_TITLE = "Chemistry Flash Cards"; // Be sure to change this for your skill.
+// Be sure to change this for your skill.
+var CARD_TITLE = "Chemistry Flash Cards"; 
 
 function getWelcomeResponse(callback) {
+    // Be sure to change this for your skill.
     var sessionAttributes = {},
         speechOutput = "Let's learn about elements in the periodic table. I will ask you about " + GAME_LENGTH.toString()
             + " elements, try to get as many right as you can. Just say the name of the element. Let's begin. ",
@@ -371,40 +367,6 @@ function populateRoundAnswers(gameQuestionIndexes, correctAnswerIndex, correctAn
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    // Get the answers for a given question, and place the correct answer at the spot marked by the
-    // correctAnswerTargetLocation variable. Note that you can have as many answers as you want but
-    // only ANSWER_COUNT will be selected.
-    var answers = [],
-        answersCopy = questions[gameQuestionIndexes[correctAnswerIndex]][Object.keys(questions[gameQuestionIndexes[correctAnswerIndex]])[0]],
-        temp, i;
-
-    var index = answersCopy.length;
-
-    if (index < ANSWER_COUNT){
-        throw "Not enough answers for question.";
-    }
-
-    // Shuffle the answers, excluding the first element.
-    for (var j = 1; j < answersCopy.length; j++){
-        var rand = Math.floor(Math.random() * (index - 1)) + 1;
-        index -= 1;
-
-        var temp = answersCopy[index];
-        answersCopy[index] = answersCopy[rand];
-        answersCopy[rand] = temp;
-    }
-
-    // Swap the correct answer into the target location
-    for (i = 0; i < ANSWER_COUNT; i++) {
-        answers[i] = answersCopy[i];
-    }
-    temp = answers[0];
-    answers[0] = answers[correctAnswerTargetLocation];
-    answers[correctAnswerTargetLocation] = temp;
-    return answers;
-}
-
-function handleAnswerRequest(intent, session, callback) {
     var speechOutput = "";
     var sessionAttributes = {};
     var gameInProgress = session.attributes && session.attributes.questions;
@@ -434,7 +396,7 @@ function handleAnswerRequest(intent, session, callback) {
 
         var speechOutputAnalysis = "";
 
-        if (answerSlotValid && intent.slots.Answer.value == correctAnswerText) {
+        if (answerSlotValid && intent.slots.Answer.toUpperCase == correctAnswerText.toUpperCase) {
             currentScore++;
             speechOutputAnalysis = "correct. ";
         } else {
@@ -493,15 +455,9 @@ function handleRepeatRequest(intent, session, callback) {
 }
 
 function handleGetHelpRequest(intent, session, callback) {
-    // Provide a help prompt for the user, explaining how the game is played. Then, continue the game
-    // if there is one in progress, or provide the option to start another one.
-
-    // Set a flag to track that we're in the Help state.
-    session.attributes.userPromptedToContinue = true;
-
     // Do not edit the help dialogue. This has been created by the Alexa team to demonstrate best practices.
 
-    var speechOutput = "I will ask you to provide the name of a, element in the periodic table. I will provide the abbreviation, you will need to provide the name. "
+    var speechOutput = "I will ask you to provide the name of an element in the periodic table. I will provide the abbreviation, you will need to provide the name. "
         + "For example, If the element is A R, you would say Argon. To start a new game at any time, say, start new game. "
         + "To repeat the last element, say, repeat. "
         + "Would you like to keep playing?",
@@ -513,7 +469,7 @@ function handleGetHelpRequest(intent, session, callback) {
 }
 
 function handleFinishSessionRequest(intent, session, callback) {
-    // End the session with a "Good bye!" if the user wants to quit the game
+    // End the session with a custom closing statment when the user wants to quit the game
     callback(session.attributes,
         buildSpeechletResponseWithoutCard("Thanks for playing Chemistry Flash Cards!", "", true));
 }

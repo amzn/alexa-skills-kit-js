@@ -148,6 +148,7 @@ var questions = [
     },
 ];
 
+
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
 // etc.) The JSON body of the request is provided in the event parameter.
 exports.handler = function (event, context) {
@@ -268,13 +269,14 @@ function onSessionEnded(sessionEndedRequest, session) {
 var ANSWER_COUNT = 1;
 var GAME_LENGTH = 5;
 // Be sure to change this for your skill.
-var CARD_TITLE = "Chemistry Flash Cards"; 
+var CARD_TITLE = "Flash Cards"; 
 
 function getWelcomeResponse(callback) {
     // Be sure to change this for your skill.
     var sessionAttributes = {},
-        speechOutput = "Let's learn about elements in the periodic table. I will ask you about " + GAME_LENGTH.toString()
-            + " elements, try to get as many right as you can. Just say the name of the element. Let's begin. ",
+        //CHANGE THIS TEXT
+        speechOutput = "I will ask you " + GAME_LENGTH.toString()
+            + " questions, try to get as many right as you can. Just say the answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
@@ -384,7 +386,7 @@ function handleAnswerRequest(intent, session, callback) {
         // If the user provided answer isn't a number > 0 and < ANSWER_COUNT,
         // return an error message to the user. Remember to guide the user into providing correct values.
         var reprompt = session.attributes.speechOutput;
-        var speechOutput = "Your answer must be a known element " + reprompt;
+        var speechOutput = "Sorry, your answer is not is our list. " + reprompt;
         callback(session.attributes,
             buildSpeechletResponse(CARD_TITLE, speechOutput, reprompt, false));
     } else {
@@ -396,7 +398,7 @@ function handleAnswerRequest(intent, session, callback) {
 
         var speechOutputAnalysis = "";
 
-        if (answerSlotValid && intent.slots.Answer.toUpperCase == correctAnswerText.toUpperCase) {
+        if (answerSlotValid && intent.slots.Answer.value.toUpperCase() == correctAnswerText.toUpperCase()) {
             currentScore++;
             speechOutputAnalysis = "correct. ";
         } else {
@@ -409,7 +411,7 @@ function handleAnswerRequest(intent, session, callback) {
         if (currentQuestionIndex == GAME_LENGTH - 1) {
             speechOutput = userGaveUp ? "" : "That answer is ";
             speechOutput += speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
-                + GAME_LENGTH.toString() + " questions correct. Thank you for learning the Periodic Table with Alexa!";
+                + GAME_LENGTH.toString() + " questions correct. Thank you for learning with Alexa!";
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
         } else {
@@ -457,11 +459,10 @@ function handleRepeatRequest(intent, session, callback) {
 function handleGetHelpRequest(intent, session, callback) {
     // Do not edit the help dialogue. This has been created by the Alexa team to demonstrate best practices.
 
-    var speechOutput = "I will ask you to provide the name of an element in the periodic table. I will provide the abbreviation, you will need to provide the name. "
-        + "For example, If the element is A R, you would say Argon. To start a new game at any time, say, start new game. "
+    var speechOutput = "To start a new game at any time, say, start new game. "
         + "To repeat the last element, say, repeat. "
         + "Would you like to keep playing?",
-        repromptText = "To give an answer, respond with the correct element. "
+        repromptText = "Try to get the right answer. "
         + "Would you like to keep playing?";
         var shouldEndSession = false;
     callback(session.attributes,
@@ -471,7 +472,7 @@ function handleGetHelpRequest(intent, session, callback) {
 function handleFinishSessionRequest(intent, session, callback) {
     // End the session with a custom closing statment when the user wants to quit the game
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Thanks for playing Chemistry Flash Cards!", "", true));
+        buildSpeechletResponseWithoutCard("Thanks for playing Flash Cards!", "", true));
 }
 
 function isAnswerSlotValid(intent) {

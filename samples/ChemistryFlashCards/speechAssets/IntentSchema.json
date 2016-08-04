@@ -22,6 +22,9 @@
       "intent": "AMAZON.StartOverIntent"
     },
     {
+      "intent": "DontKnowIntent"
+    },
+    {
       "intent": "AMAZON.RepeatIntent"
     },
     {

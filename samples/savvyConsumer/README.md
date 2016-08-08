@@ -50,6 +50,7 @@ In order to get the savvy consumer sample skill working, you will need to enter 
 3. Copy the access key and secret key.
 4. Paste them into the variables in index.js.
 5. Zip the src directory again, and upload it to Lambda.
+6. Go to [Amazon Associates](https://affiliate-program.amazon.com) and click "Join Now for Free". Follow the steps to create your Amazon Associates Account. Note: It needs your website or mobile app url to create your account.
 
 In addition, you will need to create an Amazon Product API account with the same AWS account.
 

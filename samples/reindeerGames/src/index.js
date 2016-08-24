@@ -573,6 +573,11 @@ function handleRepeatRequest(intent, session, callback) {
 function handleGetHelpRequest(intent, session, callback) {
     // Provide a help prompt for the user, explaining how the game is played. Then, continue the game
     // if there is one in progress, or provide the option to start another one.
+    
+    // Ensure that session.attributes has been initialized
+    if (!session.attributes) {
+        session.attributes = {};
+    }
 
     // Set a flag to track that we're in the Help state.
     session.attributes.userPromptedToContinue = true;

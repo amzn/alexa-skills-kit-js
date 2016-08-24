@@ -8,6 +8,7 @@ The included samples represent how to use nodejs AWS Lambda functions as Alexa S
 The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
 link below for more details):
 
+- [HelloWorld](samples/helloWorld) : a simple skill that responds with "hello world!"
 - [SpaceGeek](samples/spaceGeek) : a simple skill that responds to the user with a space fact.
 - [ReindeerGames](samples/reindeerGames): a simple skill that plays trivia quiz questions
 - [MinecraftHelper](samples/minecraftHelper) : a simple skill that responds to the user's recipe queries with formulas.

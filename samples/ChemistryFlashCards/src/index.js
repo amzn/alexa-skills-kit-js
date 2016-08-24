@@ -457,6 +457,14 @@ function handleRepeatRequest(intent, session, callback) {
 }
 
 function handleGetHelpRequest(intent, session, callback) {
+    // Set a flag to track that we're in the Help state.
+    if (session.attributes) {
+        session.attributes.userPromptedToContinue = true;
+    } else {
+        // In case user invokes and asks for help simultaneously.
+        session.attributes = { userPromptedToContinue: true };
+    }
+    
     // Do not edit the help dialogue. This has been created by the Alexa team to demonstrate best practices.
 
     var speechOutput = "To start a new game at any time, say, start new game. "

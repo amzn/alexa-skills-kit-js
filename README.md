@@ -1,31 +1,12 @@
-# Node.js Alexa Skills Kit Samples
+# We Have a New Home!
 
-## Alexa Skills Kit Documentation
-The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
+This Node.js Alexa Skills Kit project has been deprecated. A new Alexa Skills Kit SDK for Node.js, along with updated skill samples, is available in our new home: [https://github.com/alexa](https://github.com/alexa).
 
-## Contents
-The included samples represent how to use nodejs AWS Lambda functions as Alexa Skills.
-The following samples are included (ordered by complexity, see the Using Alexa Skills Kit Samples
-link below for more details):
+If you still need access to the deprecated Node.js Alexa Skills Kit project, please go to [deprecated branch](https://github.com/amzn/alexa-skills-kit-js/tree/deprecated).
 
-- [HelloWorld](samples/helloWorld) : a simple skill that responds with "hello world!"
-- [SpaceGeek](samples/spaceGeek) : a simple skill that responds to the user with a space fact.
-- [ReindeerGames](samples/reindeerGames): a simple skill that plays trivia quiz questions
-- [MinecraftHelper](samples/minecraftHelper) : a simple skill that responds to the user's recipe queries with formulas.
-- [WiseGuy](samples/wiseGuy) : a skill that tells knock knock jokes.
-- [HistoryBuff](samples/historyBuff) : a skill that gives historical information that happened on a user provided day.
-- [Savvy Consumer](samples/savvyConsumer) : a skill that looks up a category on Amazon and returns the best selling products.
-- [TidePooler](samples/tidePooler) : a skill that looks up tide information for various cities.
-- [ScoreKeeper](samples/scoreKeeper) : a skill that can keep score of a game.
-- [ChemistryFlashCards](samples/ChemistryFlashCards) : A skill that quizzes you on chemistry with flash cards.
-
-## Usage
-Navigate to the README.md in each sub directory in the samples folder and follow the instructions for getting the sample up and running.
-
-## Resources
-Here are a few direct links to our documentation:
-
-- [Using the Alexa Skills Kit Samples (Node.js)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/using-the-alexa-skills-kit-samples)
-- [Getting Started](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/getting-started-guide)
-- [Invocation Name Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill)
-- [Developing an Alexa Skill as an AWS Lambda Function](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function)
+## Quick Links
+- [New Alexa Skills Kit SDK for Node.js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
+- [Fact Skill Example](https://github.com/alexa/skill-sample-nodejs-fact) - A great place to start for any first time Alexa skills developer. This tutorial steps you through the process of building an Alexa skill similar to "Fact of the Day".
+- [Trivia Skill Example](https://github.com/alexa/skill-sample-nodejs-trivia) - Another easy tutorial for both developers and non-developers to build a solid trivia skill.
+- [How-to Skill Example](https://github.com/alexa/skill-sample-nodejs-howto) - This tutorial makes it easy to create a simple, direction-based skill for Alexa.
+- [Hello-World Skill Example](https://github.com/alexa/skill-sample-nodejs-hello-world) - The sample code of the classic “Hello, World!” skill.
